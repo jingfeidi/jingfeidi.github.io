@@ -1,7 +1,6 @@
 # folder&file
 添加和删除文件夹或文件
 
-
 ## github在线新建文件夹和文件
 添加和删除文件夹或文件
 ## github在线新建文件
@@ -30,5 +29,8 @@
 ![](https://github.com/jingfeidi/jingfeidi.github.io/blob/master/git%26github/img/20200114173510.png)<br><br>
 
 
- ## git 在本地新建文件夹和文件，上传至 github
- ### git clone git@github.com:jingfeidi/jingfeidi.github.io.git
+## git 在本地新建文件夹和文件，上传至 github
+在本地新建了一个文件夹，并且在文件夹中新增了文件，如下的“新增img文件夹”和几张“xxx.png”图片，要怎样从本地上传到github
+
+### 进入到新增img文件夹目录下，打开命令行工具，添加提交的内容，git add .
+### git clone git@github.com:jingfeidi/jingfeidi.github.io.git
