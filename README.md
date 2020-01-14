@@ -2,3 +2,5 @@
 个人博客
 ## interview
 前端面试相关
+## git&github
+git&github操作技巧
