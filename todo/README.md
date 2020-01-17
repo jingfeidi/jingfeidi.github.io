@@ -21,3 +21,7 @@
 [使用CSS3开启GPU硬件加速提升网站动画渲染性能](https://blog.csdn.net/hsany330/article/details/50925260)<br>
 [CSS3 GPU硬件加速](https://www.cnblogs.com/mengfangui/p/6604577.html)<br>
 [17.CSS3如何开启GPU加速](https://www.jianshu.com/p/769c4682ff00)
+
+
+## 如何捕获js异常
+[window.onerror的总结](https://www.jianshu.com/p/315ffe6797b8)<br>
