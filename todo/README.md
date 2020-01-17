@@ -14,4 +14,10 @@
 [使用Web Animations API创建炫酷动画](https://www.jianshu.com/p/dbc5452c1898)<br>
 [window.requestAnimationFrame](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/requestAnimationFrame)<br>
 [CSS3动画那么强，requestAnimationFrame还有毛线用？](https://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%e5%8a%a8%e7%94%bb%e7%ae%97%e6%b3%95/)<br>
-[js动画api - requestAnimationFrame](https://blog.csdn.net/u013282116/article/details/69260764)<br>
+[js动画api - requestAnimationFrame](https://blog.csdn.net/u013282116/article/details/69260764)
+
+## GPU加速
+[GPU 加速是什么](http://www.sohu.com/a/133467734_114877)<br>
+[使用CSS3开启GPU硬件加速提升网站动画渲染性能](https://blog.csdn.net/hsany330/article/details/50925260)<br>
+[CSS3 GPU硬件加速](https://www.cnblogs.com/mengfangui/p/6604577.html)<br>
+[17.CSS3如何开启GPU加速](https://www.jianshu.com/p/769c4682ff00)
