@@ -11,3 +11,7 @@
 [JS动画效果](https://www.imooc.com/learn/167)<br>
 [CSS动画实用技巧](https://www.imooc.com/learn/357)<br>
 [带你走入前端动画的世界](https://www.imooc.com/learn/1190)<br>
+[使用Web Animations API创建炫酷动画](https://www.jianshu.com/p/dbc5452c1898)<br>
+[window.requestAnimationFrame](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/requestAnimationFrame)<br>
+[CSS3动画那么强，requestAnimationFrame还有毛线用？](https://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%e5%8a%a8%e7%94%bb%e7%ae%97%e6%b3%95/)<br>
+[js动画api - requestAnimationFrame](https://blog.csdn.net/u013282116/article/details/69260764)<br>
