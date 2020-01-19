@@ -10,7 +10,7 @@
 [轻小说](https://baike.baidu.com/item/%E8%BD%BB%E5%B0%8F%E8%AF%B4/69636?fr=aladdin)&nbsp;
 [这本轻小说真厉害！](https://baike.baidu.com/item/%E8%BF%99%E6%9C%AC%E8%BD%BB%E5%B0%8F%E8%AF%B4%E7%9C%9F%E5%8E%89%E5%AE%B3%EF%BC%81/851761)<br>
 
-**国内乙女向组织**<br>
+**国内乙女向组织：**&nbsp;
 [翼梦舞城](http://www.otomedream.com/)&nbsp;
 [饭饭](http://www.yxfanfan.com/)&nbsp;
 [乙女浮世绘](https://www.otomeukiyoe.com/)
