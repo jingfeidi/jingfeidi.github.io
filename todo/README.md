@@ -31,4 +31,4 @@
 1.UWP即Windows 10中的Universal Windows Platform简称。<br>2.即Windows通用应用平台，在Windows 10 Mobile/Surface（Windows平板电脑）/PC/Xbox/HoloLens等平台上运行，uwp不同于传统pc上的exe应用，也跟只适用于手机端的app有本质区别。<br>3.它并不是为某一个终端而设计，而是可以在所有Windows10设备上运行。<br>
 
 ## 谷歌浏览器
-Sources:看源代码&nbsp;&nbsp;Elements:调试DOM元素&nbsp;&nbsp;Network:网络加载(加载顺序、时长)&nbsp;&nbsp;Console:来报错&nbsp;&nbsp;Performance:性能&nbsp;&nbsp;Memory:与内存相关的&nbsp;&nbsp;Application:整个网站应用&nbsp;&nbsp;Security:安全&nbsp;&nbsp;Audits:也可以看一些性能
+Sources：看源代码<br>Elements：调试DOM元素<br>Network：网络加载(加载顺序、时长)<br>Console：来报错<br>Performance：性能<br>Memory：与内存相关的<br>Application：整个网站应用<br>Security：安全<br>Audits：也可以看一些性能
