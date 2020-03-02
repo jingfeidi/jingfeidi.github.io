@@ -27,5 +27,5 @@
 [window.onerror的总结](https://www.jianshu.com/p/315ffe6797b8)<br>
 
 ## 词
-[UWP百度百科](https://baike.baidu.com/item/Universal%20Windows%20Platform/23796796?fromtitle=uwp&fromid=4236943&fr=aladdin)
+[UWP百度百科](https://baike.baidu.com/item/Universal%20Windows%20Platform/23796796?fromtitle=uwp&fromid=4236943&fr=aladdin)<br>
 UWP即Windows 10中的Universal Windows Platform简称。<br>即Windows通用应用平台，在Windows 10 Mobile/Surface（Windows平板电脑）/PC/Xbox/HoloLens等平台上运行，uwp不同于传统pc上的exe应用，也跟只适用于手机端的app有本质区别。<br>它并不是为某一个终端而设计，而是可以在所有Windows10设备上运行。<br>
