@@ -3,7 +3,7 @@
 ## interview
 前端面试相关
 ## front-end-notes
-前端笔记(知识点和问题)
+前端笔记（知识点和问题）
 ## git&github
 git&github操作技巧
 ## todo
