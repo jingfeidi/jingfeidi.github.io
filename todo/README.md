@@ -3,9 +3,9 @@
 
 ## HTML相关
 [HTML &lt;main&gt;标签](https://www.w3school.com.cn/tags/tag_main.asp)<br>
-&lt;main&gt; 标签规定文档的主要内容。
-&lt;main&gt;元素中的内容对于文档来说应当是唯一的。它不应包含在文档中重复出现的内容，比如侧栏、导航栏、版权信息、站点标志或搜索表单。
-注释：在一个文档中，不能出现一个以上的 &lt;main&gt; 元素。&lt;main&gt;元素不能是以下元素的后代：&lt;article&gt;、&lt;aside&gt;、&lt;footer&gt;、&lt;header&gt; 或 &lt;nav&gt;。
+&lt;main&gt; 标签规定文档的主要内容。<br>
+&lt;main&gt;元素中的内容对于文档来说应当是唯一的。它不应包含在文档中重复出现的内容，比如侧栏、导航栏、版权信息、站点标志或搜索表单。<br>
+注释：在一个文档中，不能出现一个以上的 &lt;main&gt; 元素。&lt;main&gt;元素不能是以下元素的后代：&lt;article&gt;、&lt;aside&gt;、&lt;footer&gt;、&lt;header&gt; 或 &lt;nav&gt;。<br>
   
 ## head
 ```
