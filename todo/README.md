@@ -16,8 +16,7 @@ s.parentNode.insertBefore(hm, s);
 })();
 </script>
 ```
-安装示例：<br>
-![](https://mtj.baidu.com/static/article/image/OBfAIWsCzd1480657668.gif)
+[百度统计API](https://www.jianshu.com/p/40cc4a1f3806)<br>
 
 
 ## PV、UV、IV
