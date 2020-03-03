@@ -2,9 +2,9 @@
 临时的，不定期更新整理
 
 ## head
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><br>
+'<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">'<br>
 兼容性配置，让IE走最高的浏览器edge去渲染，如果有chrome浏览器用chrome去渲染<br>
-<meta name="renderer" content="webkit"><br>
+'<meta name="renderer" content="webkit">'<br>
 让双核浏览器优先使用webkit内核渲染页面
 
 ## md格式的文档编写相关
