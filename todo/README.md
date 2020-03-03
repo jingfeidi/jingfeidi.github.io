@@ -15,6 +15,13 @@
 **小结：**
 由header、main、aside、footer 四个标签组成的经典布局如下图：<br>
 ![](https://www.liudaima.com/zb_users/upload/2019/12/201912171576597404137597.png)
+```
+<body>
+<header>header</header>
+<main>main</main><aside>aside</aside>
+<footer>footer</footer>
+</body>
+```
 
 ## head
 ```
