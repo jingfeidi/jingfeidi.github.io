@@ -1,9 +1,10 @@
-# js工具（库/插件）说明<br>
+# js工具
+js库/插件说明<br>
 ## analytics.js
 [analytics.js谷歌官方网站](https://developers.google.cn/analytics/devguides/collection/analyticsjs)&nbsp;
 [Google Analytics（分析）官网](https://developers.google.cn/analytics)<br>
 analytics.js 库（也称为“Google Analytics（分析）代码”）是一种用于衡量用户与您网站的互动情况的 JavaScript 库。<br><br>
-**衡量常见的用户互动：**<br>
+**衡量常见的用户互动：**<br><br>
 **1. 网页浏览：**<br>用于衡量网站上特定网页的浏览次数。网页通常对应于整个 HTML 文档，但也可以表示动态加载的内容，这种情况称为“虚拟网页浏览”。<br><br>
 **2. 事件衡量：**<br>衡量事件。“事件”是指用户与内容进行的互动，可以独立于网页或屏幕的加载而进行衡量。下载、移动广告点击、小工具、Flash 元素、AJAX 嵌入式元素以及视频播放都是可以作为事件进行衡量的操作。<br><br>
 **3. 社交互动：**<br>使用社交互动分析来衡量用户点击嵌入网页的社交按钮的次数。例如，您可以衡量 Facebook 上的“赞”或 Twitter 上的“发 Twitter 微博”。<br>事件衡量有助于您非常有效地分析一般的用户互动，但社交分析可为记录社交互动提供一致的框架，进而提供一套可用于比较多个社交网络上的社交互动的统一报告。<br><br>
