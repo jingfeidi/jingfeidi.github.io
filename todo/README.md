@@ -14,7 +14,7 @@
 [H5标签在IE浏览器下的兼容性问题](https://blog.csdn.net/Hi_Riley/article/details/89220739)&nbsp;例子讲的主要是main标签<br>
 **小结：**
 由header、main、aside、footer 四个标签组成的经典布局如下图：<br>
-[](https://www.liudaima.com/zb_users/upload/2019/12/201912171576597404137597.png)
+![](https://www.liudaima.com/zb_users/upload/2019/12/201912171576597404137597.png)
 
 ## head
 ```
