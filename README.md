@@ -2,6 +2,8 @@
 个人博客
 ## interview
 前端面试相关
+## front-end-notes
+前端笔记(知识点和问题)
 ## git&github
 git&github操作技巧
 ## todo
@@ -10,3 +12,5 @@ git&github操作技巧
 业余生活其他方面的知识积累
 ## AGCN
 动画Animation、游戏Game、漫画Comic、轻小说Light Novel
+## reading notes
+读书笔记
