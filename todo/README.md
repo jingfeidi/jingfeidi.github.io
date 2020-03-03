@@ -3,8 +3,10 @@
 
 ## PV、UV、IV
 [PV-百度百科](https://baike.baidu.com/item/%E7%BB%BC%E5%90%88%E6%B5%8F%E8%A7%88%E9%87%8F/396204?fromtitle=pv&fromid=402)&nbsp;&nbsp;[UV-百度百科](https://baike.baidu.com/item/%E7%8B%AC%E7%AB%8B%E8%AE%BF%E5%AE%A2/523828?fromtitle=UV&fromid=59745)&nbsp;&nbsp;[IV-百度百科](https://baike.baidu.com/item/iv/7919342#viewPageContent)<br>
-**PV：**（page view，页面浏览量）一般指综合浏览量。是网站各网页被浏览的总次数。一个访客有可能创造十几个甚至更多的 Pageviews。<br>
-是目前判断网站访问流量最常用的计算方式，也是反映一个网站受欢迎程度的重要指标之一。
+**PV：**（page view，页面浏览量）一般指综合浏览量。是网站各网页被浏览的总次数。一个访客有可能创造十几个甚至更多的 Pageviews。是目前判断网站访问流量最常用的计算方式，也是反映一个网站受欢迎程度的重要指标之一。<br>
+网页浏览数是评价网站流量最常用的指标之一，简称为PV。监测网站PV的变化趋势和分析其变化原因是很多站长定期要做的工作。 Page Views中的Page一般是指普通的html网页，也包含php、jsp等动态产生的html内容。来自浏览器的一次html内容请求会被看作一个PV，逐渐累计成为PV总数。<br>
+除了PV总数外，还可以从不同角度来分析和对比PV，比如想知道哪个网页(Page)被浏览的次数多就要以Page为分析对象并分别累计PV。网页一般通过URL或标题(html title)来标识，大多数工具都提供了类似的定义方法]关于PV的统计要考虑2种特殊情况：<br>
+一是从服务器返回错误网页或重定向网页时，是否计数以及如何配置；<br>二是本地或网关服务器的缓存生效时是否计数。这些问题在实施网站分析前需要搞清楚，必要时可以咨询工具厂商。
 
 ## HTML相关
 [HTML &lt;main&gt;标签](https://www.w3school.com.cn/tags/tag_main.asp)<br>
