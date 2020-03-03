@@ -24,7 +24,6 @@
 ```
 以上代码中，main标签还可以使用article标签替换。<br><br>
 **HTML &lt;main&gt;标签**<br>
----
 &lt;main&gt;标签规定文档主要内容或应用程序的主体部分；<br>
 &lt;main&gt;标签是 HTML5中新增的标签；<br>
 &lt;main&gt;标签只能在整个页面中最多出现一次；<br>
