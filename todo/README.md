@@ -1,6 +1,12 @@
 # 平常逛到的一些网站/网址
 临时的，不定期更新整理
 
+## HTML相关
+[HTML <main> 标签](https://www.w3school.com.cn/tags/tag_main.asp)
+<main> 标签规定文档的主要内容。
+<main> 元素中的内容对于文档来说应当是唯一的。它不应包含在文档中重复出现的内容，比如侧栏、导航栏、版权信息、站点标志或搜索表单。
+注释：在一个文档中，不能出现一个以上的 <main> 元素。<main> 元素不能是以下元素的后代：<article>、<aside>、<footer>、<header> 或 <nav>。
+  
 ## head
 ```
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
