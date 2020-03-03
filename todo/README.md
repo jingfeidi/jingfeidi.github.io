@@ -1,6 +1,23 @@
 # 平常逛到的一些网站/网址
 临时的，不定期更新整理
 
+## 百度统计
+[百度统计使用指南：代码安装](https://tongji.baidu.com/web/help/articleList?type=0&category=16)<br>
+异步分析代码（推荐）：此代码以异步加载形式进行加载，可以真正做到对网站打开速度完全没有影响，使用该代码能够大幅提升网站的打开速度，也可提升统计数据的准确性。不管是PC站点还是移动站点，都推荐安装异步代码。<br>
+```
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "//hm.baidu.com/hm.js?XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+```
+安装示例：<br>
+![](https://mtj.baidu.com/static/article/image/OBfAIWsCzd1480657668.gif)
+
 ## PV、UV、IV
 [PV-百度百科](https://baike.baidu.com/item/%E7%BB%BC%E5%90%88%E6%B5%8F%E8%A7%88%E9%87%8F/396204?fromtitle=pv&fromid=402)&nbsp;&nbsp;[UV-百度百科](https://baike.baidu.com/item/%E7%8B%AC%E7%AB%8B%E8%AE%BF%E5%AE%A2/523828?fromtitle=UV&fromid=59745)&nbsp;&nbsp;[IV-百度百科](https://baike.baidu.com/item/iv/7919342#viewPageContent)<br><br>
 **PV：**（page view，页面浏览量）一般指综合浏览量。是网站各网页被浏览的总次数。一个访客有可能创造十几个甚至更多的 Pageviews。是目前判断网站访问流量最常用的计算方式，也是反映一个网站受欢迎程度的重要指标之一。<br><br>
