@@ -28,14 +28,14 @@
 &lt;main&gt;标签只能在整个页面中最多出现一次；<br>
 &lt;main&gt;标签不能是以下标签的子标签：&lt;article&gt;、&lt;aside&gt;、&lt;footer&gt;、&lt;header&gt; 或 &lt;nav&gt;。<br>
 &lt;main&gt;标签中的主体内容应该是页面中唯一的，且不会在其他页面中重复出现的内容。它不应包含在文档中重复出现的内容，比如侧栏、导航栏、版权信息、站点标志或搜索表单；<br>
-使用 &lt;main&gt; 元素最简单的方式就是去替换那些 ID 或者 Class 值为 main 或者 content 之类的 <div> 元素：<br>
-使用 &lt;main&gt; 元素之前的文档结构：
+使用 &lt;main&gt;元素最简单的方式就是去替换那些 ID 或者 Class 值为 main 或者 content 之类的 &lt;div&gt;元素：<br>
+使用 &lt;main&gt;元素之前的文档结构：
 ```
 <header>Header</header>
 <div id="content">Main Content</div>
 <footer>Footer</footer>
 ```  
-使用 &lt;main&gt; 元素改写文档：
+使用 &lt;main&gt;元素改写文档：
 ```
 <header>Header</header>
 <main id="content">Main Content</main>
