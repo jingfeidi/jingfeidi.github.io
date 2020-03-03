@@ -8,7 +8,9 @@
 注释：在一个文档中，不能出现一个以上的 &lt;main&gt; 元素。&lt;main&gt;元素不能是以下元素的后代：&lt;article&gt;、&lt;aside&gt;、&lt;footer&gt;、&lt;header&gt; 或 &lt;nav&gt;。<br>
 [html5 main标签是什么意思？html5 main标签作用的详细介绍](https://www.php.cn/html5-tutorial-408543.html)<br>
 [HTML &lt;main&gt;标签蚂蚁部落](https://www.softwhy.com/article-10285-1.html)<br>
-[HTML Demo:  &lt;main&gt;&nbsp;MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/main)
+[HTML Demo:  &lt;main&gt;&nbsp;MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/main)<br>
+[HTML5标签：aside元素的使用方法及作用](https://www.liudaima.com/a/174.html)<br>
+[HTML5标签：article元素的使用方法及作用](https://www.liudaima.com/a/173.html)
   
 ## head
 ```
