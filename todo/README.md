@@ -10,8 +10,9 @@
 [HTML &lt;main&gt;标签蚂蚁部落](https://www.softwhy.com/article-10285-1.html)<br>
 [HTML Demo:  &lt;main&gt;&nbsp;MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/main)<br>
 [HTML5标签：aside元素的使用方法及作用](https://www.liudaima.com/a/174.html)<br>
-[HTML5标签：article元素的使用方法及作用](https://www.liudaima.com/a/173.html)
-  
+[HTML5标签：article元素的使用方法及作用](https://www.liudaima.com/a/173.html)<br>
+[H5标签在IE浏览器下的兼容性问题](https://blog.csdn.net/Hi_Riley/article/details/89220739)例子讲的主要是main标签<br>
+
 ## head
 ```
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
