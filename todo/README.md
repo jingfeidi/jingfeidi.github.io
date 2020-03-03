@@ -35,12 +35,27 @@
 <div id="content">Main Content</div>
 <footer>Footer</footer>
 ```  
-使用 &lt;main&gt;元素改写文档：
+使用&lt;main&gt;元素改写文档：
 ```
 <header>Header</header>
 <main id="content">Main Content</main>
 <footer>Footer</footer>  
 ```
+**&lt;main&gt;标签的兼容性问题**<br>
+1.IE9中的问题<br>
+IE9浏览器会将H5部分语义化标签，解析为行内元素，比如：main标签。<br>
+解决办法：给main标签设置display：block样式
+```
+main {display:block;}
+```
+2.IE8及以下的问题<br>
+IE8及以下浏览器根本不认识H5标签<br>
+解决办法：<br>
+2.1 利用js手动创建标签，比如：document.createElement(‘main’),创建的标签默认为行内元素，因此需要给标签样式设置display：block；
+```
+<script type="text/javascript">document.createElement('main');</script>
+```
+2.2 利用第三方插件：html5shiv.min.js,直接引入即可
 
 ## head
 ```
