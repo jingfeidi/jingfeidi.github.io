@@ -9,4 +9,5 @@ normalize.css和reset.css
 [normalize.css中文版](https://www.jianshu.com/p/36193d599619)<br>
 [使用normalize.css遇到的问题？](https://developer.aliyun.com/ask/73352?spm=a2c6h.13159736)<br>
 [animate.css官网在线预览](https://daneden.github.io/animate.css/)<br>
-[animate.css GitHub](https://github.com/daneden/animate.css/blob/master/animate.css)
+[animate.css GitHub](https://github.com/daneden/animate.css/blob/master/animate.css)<br>
+[【Animate.css】CSS动画库](https://www.jianshu.com/p/58886d26dc8e)
