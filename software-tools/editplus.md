@@ -1,6 +1,5 @@
 # EditPlus使用指南
-**EditPlus设置文档行高**<br>
-菜单栏中Tools->Preferences->General<br>
+**EditPlus设置文档行高：**菜单栏中Tools->Preferences->General<br>
 ![](https://github.com/jingfeidi/jingfeidi.github.io/blob/master/software-tools/img/2020031101.png)
 ## EditPlus快捷键大全
 [EditPlus使用技巧集](http://www.360doc.com/content/15/0813/22/17309889_491482601.shtml)<br><br><br>
