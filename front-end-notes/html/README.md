@@ -67,4 +67,10 @@ IE8及以下浏览器根本不认识H5标签<br>
 ```
 <meta name="renderer" content="webkit">
 ```
-让双核浏览器优先使用webkit内核渲染页面
+让双核浏览器优先使用webkit内核渲染页面<br>
+
+```
+<link rel="dns-prefetch" href="//s1.hdslb.com">
+```
+DNS预解析，在页面的html标签中添加dns-prefetch告诉浏览器对指定域名预解析。当前域名是bilibili.com，而指定域名是s1.hdslb.com。DNS预解析dns-prefetch提升页面载入速度优化前端性能。
+
