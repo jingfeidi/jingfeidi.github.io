@@ -1,27 +1,39 @@
 # 浏览网址
 ## 4月4日之前的
 [老罗一夜卖1.8亿，薇娅直播卖火箭，愚人节直播到底颠覆了什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9411662930645960902%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[新人工智能对经济的潜在影响](https://m.gmw.cn/baijia/2020-04/03/33711962.html)<br>
+[5G新标准将延迟3个月发布，但5G“新战场”已经明确](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9703920779168505997%22%7D&n_type=0&p_from=1)<br>
+[在高通AI引擎这块智能“白板”上，手机厂商该如何绘画？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9569433060989049352%22%7D&n_type=0&p_from=1)<br>
+[非接触时代，佳都科技商用智能人脸测温新品重磅发布！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10166154269334776501%22%7D&n_type=0&p_from=1)<br>
+[资料｜《神经网络与深度学习 中文版 PDF》](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9690902900821956812%22%7D&n_type=0&p_from=1)<br>
+[索尼「无声语音识别」大法：脖颈贴合传感器，AI 转换皮肤震动信息](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9956816730067986666%22%7D&n_type=0&p_from=1)<br>
+[高文院士：学习人工智能专业，能成为大师吗？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9779974763040265583%22%7D&n_type=0&p_from=1)<br>
+[5G在边缘！中国联通重磅推出EdgePOD边缘云解决方案](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9654249825979410531%22%7D&n_type=0&p_from=1)<br>
+[任务体系设计要点：既让用户玩起来、平台也不亏本](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10083162238282634998%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
 ## 4月4日
+[你和主播仅一步之遥，塞宾新款Vlog拍摄神器体验，说说优缺点！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8934974895461860777%22%7D&n_type=0&p_from=1)<br>
 [清明节，想对你说](https://m.gmw.cn/baijia/2020-04/04/1301117014.html)<br>
 [清明节 记住为我们开辟出春天的每一位英雄](https://m.gmw.cn/baijia/2020-04/04/1301118041.html)<br>
 [九图速览｜清明节：不忘故人 不负春光](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9206234764937245660%22%7D&n_type=0&p_from=1)<br>
 [青团此做法，清爽翠绿简单易学，软糯又筋道，蒸一锅都不够吃](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9007645119384110666%22%7D&n_type=0&p_from=1)<br>
 [清明，想你……今年居家抗疫，为你插柳代祭](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9673029501840374752%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[“脑补”小说画面，竟是大脑的一种神奇能力！想象力如何影响我们“看”世界](https://wenhui.whb.cn/third/baidu/202004/04/338370.html)<br>
+[总有些戏精，觉得笔记本电脑不能插着电源用！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9387753818241775621%22%7D&n_type=0&p_from=1)<br>
+[iPhone11中国大降价：或将引领4G手机价格崩盘！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9403758520015269272%22%7D&n_type=0&p_from=1)<br>
+[“小屏iPhone”即将发布，不叫iPhone 9？命名继续延续iPhone SE](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8972325138029071235%22%7D&n_type=0&p_from=1)<br>
+[苹果“官宣”新iPhone SE，A13+256GB，售价太惊喜！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8910701192040231442%22%7D&n_type=0&p_from=1)<br>
+[苹果终于传来好消息，A14已经开始量产，iPhone12没有刘海不延期](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9493551000418997493%22%7D&n_type=0&p_from=1)<br>
+[智慧计算，浪潮的“变”与“不变”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10924377629857067440%22%7D&n_type=0&p_from=1)<br>
+[154 万 AI 开发者用数据告诉你，中国 AI 如何才能弯道超车？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10373268471526069729%22%7D&n_type=0&p_from=1)<br>
+[看了这篇文章，你就知道小米和华为的2019过得如何](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8960627622835915432%22%7D&n_type=0&p_from=1)<br>
+[苹果收购 AI 初创公司 Voysis，让 Siri 更能听懂人话](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9362751714157009689%22%7D&n_type=0&p_from=1)<br>
+[谷歌与UCSF合作开发医疗AI系统，可处理医生75%的处方](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9554090514295161616%22%7D&n_type=0&p_from=1)<br>
+[新股前瞻｜靠Facebook、谷歌为生的虎视传媒 业绩有多少自主权？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9275456778742155298%22%7D&n_type=0&p_from=1)<br>
+[10时整，北京地铁停车鸣笛3次](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9710011124510530196%22%7D&n_type=0&p_from=1)<br>
+[上海地铁停靠站台3分钟并鸣笛 乘客起立默哀](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9578211518722731656%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
@@ -29,6 +41,7 @@
 []()<br>
 ## 4月5日
 [湖北就业者，“三个倾斜”“一个维护”帮到你](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9418058793927815296%22%7D&n_type=0&p_from=1)<br>
+[百度搜索大数据显示：“清明节民俗”成热搜，旅游热度大幅下降](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10427274867728129131%22%7D&n_type=0&p_from=1)<br>
 [B站抖音合围，视频这碗饭知乎要怎么吃？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10423016613809783553%22%7D&n_type=0&p_from=1)<br>
 [春天很好，只是很想你](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9432962231602143399%22%7D&n_type=0&p_from=1)<br>
 [中概股简报：摩根士丹利列出20只亚太首选股 阿里巴巴在列](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9615000043952518688%22%7D&n_type=0&p_from=1)<br>
@@ -74,10 +87,20 @@
 [各大移动端应用市场APP排行的情况](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9115867158389052004%22%7D&n_type=0&p_from=1)<br>
 [百度产品笔试题：5G时代会产生哪些应用生活场景？（上）](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9195814336813055477%22%7D&n_type=0&p_from=1)<br>
 [CEO们为什么会自降身价走入直播间？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9159587915412591850%22%7D&n_type=0&p_from=1)<br>
+[马自达发布百年纪念版车型；iPhone SE 2020蓄势待发](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10115607709643117278%22%7D&n_type=0&p_from=1)<br>
+[“微信遗嘱”功能开通，网友体验后有了一个发现……](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9743360746629341408%22%7D&n_type=0&p_from=1)<br>
+[iPhone 11大幅降价，背后的这些秘密你可能不知道](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9198744591087006132%22%7D&n_type=0&p_from=1)<br>
+[3分钟里的“哀”与“思”](https://m.gmw.cn/baijia/2020-04/05/1301118557.html)<br>
+[浙江加快“数字三农”建设](https://m.gmw.cn/baijia/2020-04/05/1301118854.html)<br>
+[科技部：将继续加大对人工智能发展支持 支持一批研究项目](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9186723432963069096%22%7D&n_type=0&p_from=1)<br>
+[虚拟货币交易“水”有多深](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9298100228554884384%22%7D&n_type=0&p_from=1)<br>
+[5G产业链全景图：移动3月份净增483万户（可下载）](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9069370860363747475%22%7D&n_type=0&p_from=1)<br>
+[4G手机用户开5G套餐，你们到底在想什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9114420063710962957%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
-
-
+[]()<br>
+[]()<br>
+[]()<br>
 ## 4月6日
 []()<br>
 []()<br>
