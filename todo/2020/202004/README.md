@@ -10,6 +10,12 @@
 [高文院士：学习人工智能专业，能成为大师吗？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9779974763040265583%22%7D&n_type=0&p_from=1)<br>
 [5G在边缘！中国联通重磅推出EdgePOD边缘云解决方案](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9654249825979410531%22%7D&n_type=0&p_from=1)<br>
 [任务体系设计要点：既让用户玩起来、平台也不亏本](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10083162238282634998%22%7D&n_type=0&p_from=1)<br>
+[国画中的清明](https://m.thepaper.cn/baijiahao_6844444)<br>
+[话传统 | 清明时节雨纷纷，来看看清明节有什么习俗？](https://m.thepaper.cn/baijiahao_6845068)<br>
+[风清尘自远——牛斌花鸟画作品欣赏](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9975286029979149423%22%7D&n_type=0&p_from=1)<br>
+[手机拍vlog的降噪神器：用塞宾蓝牙麦克风，4级Ai降噪15m超远收音](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9852698265999216155%22%7D&n_type=0&p_from=1)<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
 []()<br>
@@ -34,10 +40,21 @@
 [新股前瞻｜靠Facebook、谷歌为生的虎视传媒 业绩有多少自主权？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9275456778742155298%22%7D&n_type=0&p_from=1)<br>
 [10时整，北京地铁停车鸣笛3次](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9710011124510530196%22%7D&n_type=0&p_from=1)<br>
 [上海地铁停靠站台3分钟并鸣笛 乘客起立默哀](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9578211518722731656%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[清明读诗，是最好的祭奠](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8528097039789414833%22%7D&n_type=0&p_from=1)<br>
+[海报丨清明节，我们用这种方式寄托哀思！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8995024177584809617%22%7D&n_type=0&p_from=1)<br>
+[5G对我们的影响？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9236181244058047118%22%7D&n_type=0&p_from=1)<br>
+[南宋诗人写下一首清明诗，直击社会现实，许多人读完都会大呼过瘾](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8897472679887394458%22%7D&n_type=0&p_from=1)<br>
+[素描 | 抗疫英雄，期待与你拥抱在这个春天](https://m.gmw.cn/baijia/2020-04/04/1301118238.html)<br>
+[除了“牧童遥指杏花村”，清明诗词你还知道哪些？](https://www.shobserver.com/baijiahao/html/233118.html)<br>
+[这个清明，让我们一起云祭祀](https://m.gmw.cn/baijia/2020-04/04/1301117229.html)<br>
+[清明期间，济南林场开展代祭扫服务](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8743064542500890681%22%7D&n_type=0&p_from=1)<br>
+[腾讯成虎牙最大股东 游戏直播江湖变局再生](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8340199371697332061%22%7D&n_type=0&p_from=1)<br>
+[最美人间四月天 | 清明踏青慎寒食](https://m.gmw.cn/baijia/2020-04/03/1301115896.html)<br>
+[年年都在过清明，你知道清明节有哪些习俗吗？不只是祭祀那么简单](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8611653249308890013%22%7D&n_type=0&p_from=1)<br>
+[这个节日源起山西，你知道吗？](https://m.gmw.cn/baijia/2020-04/04/1301117267.html)<br>
+[又是一年清明时，你知道清明节来历吗？原来与这个悲伤的故事有关](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9454129196306173515%22%7D&n_type=0&p_from=1)<br>
+[惠风和畅，自在清明，春白茶的美好尽在一个“清”字中！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8867537741398084929%22%7D&n_type=0&p_from=1)<br>
+[“清明时节雨纷纷”，为何清明总下雨？原来背后有个凄美爱情传说](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9360963324023704775%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 ## 4月5日
 [湖北就业者，“三个倾斜”“一个维护”帮到你](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9418058793927815296%22%7D&n_type=0&p_from=1)<br>
@@ -96,9 +113,17 @@
 [虚拟货币交易“水”有多深](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9298100228554884384%22%7D&n_type=0&p_from=1)<br>
 [5G产业链全景图：移动3月份净增483万户（可下载）](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9069370860363747475%22%7D&n_type=0&p_from=1)<br>
 [4G手机用户开5G套餐，你们到底在想什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9114420063710962957%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[拟投资2500万元 杭州中国丝绸城步行街将打造特色小镇](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9690058677765664687%22%7D&n_type=0&p_from=1)<br>
+[江苏扬州：天渐渐热了，村民藕田中开捕小龙虾！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9448418126757224894%22%7D&n_type=0&p_from=1)<br>
+[河北：春暖花开农事忙](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9122371134719609154%22%7D&n_type=0&p_from=1)<br>
+[鄱阳湖最后600余只白鹤聚群北迁](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9027294457288546936%22%7D&n_type=0&p_from=1)<br>
+[新 iPad 只是爱奇艺播放器？这 34 款实用 App 帮你秒增生产力](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9902694519913387542%22%7D&n_type=0&p_from=1)<br>
+[春季过敏季 防范须重视](https://m.gmw.cn/baijia/2020-04/05/1301118994.html)<br>
+[山东聊城：清明到、农事忙，农民在田间地头辛勤劳作！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9255549996034663801%22%7D&n_type=0&p_from=1)<br>
+[清明节手抄报该怎么做？老师分享模这些板和素材，你一定用得到](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9364833192654934005%22%7D&n_type=0&p_from=1)<br>
+[视角｜大国担当与科技使命——沉淀下的观察·思考·抗击疫情](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8924711602917548648%22%7D&n_type=0&p_from=1)<br>
+[面对疫情 中国移动撑起中国好网络](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9615283086670626197%22%7D&n_type=0&p_from=1)<br>
+[疫情防控遇清明“云”代祭追思亲人](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8819099546818085976%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 ## 4月6日
