@@ -44,6 +44,8 @@
 [疫情对新零售的十大影响](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9928304954761567360%22%7D&n_type=0&p_from=1)<br>
 [各大移动端应用市场APP排行的情况](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9115867158389052004%22%7D&n_type=0&p_from=1)<br>
 [百度产品笔试题：5G时代会产生哪些应用生活场景？（上）](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9195814336813055477%22%7D&n_type=0&p_from=1)<br>
+
+## 4月6日
 []()<br>
 []()<br>
 
