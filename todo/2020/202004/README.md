@@ -11,7 +11,13 @@
 [品牌玩直播需要弄懂的2个基本点](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10011252588650118683%22%7D&n_type=0&p_from=1)<br>
 [移动音频市场“疫后”起风云：腾讯音乐联手阅文入局](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9226868664105830684%22%7D&n_type=0&p_from=1)<br>
 [直播成为一种“新经济”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8896508210599836312%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
+[新零售人的独白：线上线下，两个世界](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10762928477541032697%22%7D&n_type=0&p_from=1)<br>
+[方法论：如何开一场高效且有用的会议？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9868031750147208912%22%7D&n_type=0&p_from=1)<br>
+[跨境支付（六）：商业模式](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9341053036798965517%22%7D&n_type=0&p_from=1)<br>
+[2个要点，提高线上面试成功率](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8844857895928216929%22%7D&n_type=0&p_from=1)<br>
+[直播电商沸腾2020](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9356024858952439392%22%7D&n_type=0&p_from=1)<br>
+[微信视频号的入门须知与运营指南](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10945093133175494709%22%7D&n_type=0&p_from=1)<br>
+[2022杭州亚运会吉祥物发布](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8897108389326249877%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
