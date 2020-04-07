@@ -133,6 +133,17 @@
 [“淡黄的长裙，蓬松的头发”，为什么这么洗脑？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9432967093609566484%22%7D&n_type=0&p_from=1)<br>
 [高新兴科技集团吴冬升：数字新基建下的 5G 车联网，创新赋能自动驾驶和智慧交通](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9725824713087371479%22%7D&n_type=0&p_from=1)<br>
 ## 4月7日
+[想要实现个人更高价值，你需要将技能TO C化](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8621248365096279290%22%7D&n_type=0&p_from=1)<br>
+[运营了200多个直播达人，我知道了决定直播观看的动态权重](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9690604628147082699%22%7D&n_type=0&p_from=1)<br>
+[以智能化手段，提高购物中心的客户购物体验与运营效率](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9526716243986784869%22%7D&n_type=0&p_from=1)<br>
+[聊聊生鲜电商的代表性平台与玩法](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8913814562342645243%22%7D&n_type=0&p_from=1)<br>
+[从0到1做短视频社区（5）：谈谈商业化](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9558100772611382719%22%7D&n_type=0&p_from=1)<br>
+[人皆可得的时尚 vs“彻头彻尾的资本主义”：什么才是奢侈品的本质？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9361215777976099279%22%7D&n_type=0&p_from=1)<br>
+[百度“ AI 抗疫”启示录](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10316222501101141821%22%7D&n_type=0&p_from=1)<br>
+[B站最新股权结构：腾讯升至13.3%，阿里降至7.2%](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10307351886137055662%22%7D&n_type=0&p_from=1)<br>
+[裁员、减薪、项目延迟，疫情影响下，哪些行业在逆势增长？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9485228431776421047%22%7D&n_type=0&p_from=1)<br>
+## 4月7日
+[]()<br>
 []()<br>
 []()<br>
 []()<br>
