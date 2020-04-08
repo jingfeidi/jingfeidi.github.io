@@ -1,19 +1,5 @@
 # 浏览网址
-## 4月4日之前的
-[老罗一夜卖1.8亿，薇娅直播卖火箭，愚人节直播到底颠覆了什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9411662930645960902%22%7D&n_type=0&p_from=1)<br>
-[新人工智能对经济的潜在影响](https://m.gmw.cn/baijia/2020-04/03/33711962.html)<br>
-[5G新标准将延迟3个月发布，但5G“新战场”已经明确](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9703920779168505997%22%7D&n_type=0&p_from=1)<br>
-[在高通AI引擎这块智能“白板”上，手机厂商该如何绘画？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9569433060989049352%22%7D&n_type=0&p_from=1)<br>
-[非接触时代，佳都科技商用智能人脸测温新品重磅发布！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10166154269334776501%22%7D&n_type=0&p_from=1)<br>
-[资料｜《神经网络与深度学习 中文版 PDF》](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9690902900821956812%22%7D&n_type=0&p_from=1)<br>
-[索尼「无声语音识别」大法：脖颈贴合传感器，AI 转换皮肤震动信息](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9956816730067986666%22%7D&n_type=0&p_from=1)<br>
-[高文院士：学习人工智能专业，能成为大师吗？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9779974763040265583%22%7D&n_type=0&p_from=1)<br>
-[5G在边缘！中国联通重磅推出EdgePOD边缘云解决方案](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9654249825979410531%22%7D&n_type=0&p_from=1)<br>
-[任务体系设计要点：既让用户玩起来、平台也不亏本](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10083162238282634998%22%7D&n_type=0&p_from=1)<br>
-[国画中的清明](https://m.thepaper.cn/baijiahao_6844444)<br>
-[话传统 | 清明时节雨纷纷，来看看清明节有什么习俗？](https://m.thepaper.cn/baijiahao_6845068)<br>
-[风清尘自远——牛斌花鸟画作品欣赏](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9975286029979149423%22%7D&n_type=0&p_from=1)<br>
-[手机拍vlog的降噪神器：用塞宾蓝牙麦克风，4级Ai降噪15m超远收音](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9852698265999216155%22%7D&n_type=0&p_from=1)<br>
+
 ## 4月4日
 [你和主播仅一步之遥，塞宾新款Vlog拍摄神器体验，说说优缺点！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8934974895461860777%22%7D&n_type=0&p_from=1)<br>
 [清明节，想对你说](https://m.gmw.cn/baijia/2020-04/04/1301117014.html)<br>
@@ -162,4 +148,19 @@
 [「海报」武汉“解封日”≠抗疫“胜利日”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9647627385797607831%22%7D&n_type=0&p_from=1)<br>
 [如何快速搭建一个新项目的运营体系？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9474805615617397626%22%7D&n_type=0&p_from=1)<br>
 [案例分析：H5支付交互体验设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9342505191089185402%22%7D&n_type=0&p_from=1)<br>
+## 4月4日之前的
+[老罗一夜卖1.8亿，薇娅直播卖火箭，愚人节直播到底颠覆了什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9411662930645960902%22%7D&n_type=0&p_from=1)<br>
+[新人工智能对经济的潜在影响](https://m.gmw.cn/baijia/2020-04/03/33711962.html)<br>
+[5G新标准将延迟3个月发布，但5G“新战场”已经明确](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9703920779168505997%22%7D&n_type=0&p_from=1)<br>
+[在高通AI引擎这块智能“白板”上，手机厂商该如何绘画？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9569433060989049352%22%7D&n_type=0&p_from=1)<br>
+[非接触时代，佳都科技商用智能人脸测温新品重磅发布！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10166154269334776501%22%7D&n_type=0&p_from=1)<br>
+[资料｜《神经网络与深度学习 中文版 PDF》](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9690902900821956812%22%7D&n_type=0&p_from=1)<br>
+[索尼「无声语音识别」大法：脖颈贴合传感器，AI 转换皮肤震动信息](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9956816730067986666%22%7D&n_type=0&p_from=1)<br>
+[高文院士：学习人工智能专业，能成为大师吗？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9779974763040265583%22%7D&n_type=0&p_from=1)<br>
+[5G在边缘！中国联通重磅推出EdgePOD边缘云解决方案](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9654249825979410531%22%7D&n_type=0&p_from=1)<br>
+[任务体系设计要点：既让用户玩起来、平台也不亏本](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10083162238282634998%22%7D&n_type=0&p_from=1)<br>
+[国画中的清明](https://m.thepaper.cn/baijiahao_6844444)<br>
+[话传统 | 清明时节雨纷纷，来看看清明节有什么习俗？](https://m.thepaper.cn/baijiahao_6845068)<br>
+[风清尘自远——牛斌花鸟画作品欣赏](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9975286029979149423%22%7D&n_type=0&p_from=1)<br>
+[手机拍vlog的降噪神器：用塞宾蓝牙麦克风，4级Ai降噪15m超远收音](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9852698265999216155%22%7D&n_type=0&p_from=1)<br>
 
