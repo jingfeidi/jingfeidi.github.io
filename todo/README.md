@@ -1,5 +1,6 @@
 # 平常逛到的一些网站/网址
 临时的，不定期更新整理<br>
+[2020浏览网址](https://github.com/jingfeidi/jingfeidi.github.io/tree/master/todo/2020)<br>
 
 搞艺术的人，练音乐，练到什么程度，听到声音能说出音阶。<br>
 做美术的，练到什么程度，见到 一个颜色能说出RGB来。<br>
