@@ -157,9 +157,9 @@
 [剖析102家公司会员模式（5）：盒马X会员，真的够X吗？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8608174922694313067%22%7D&n_type=0&p_from=1)<br>
 [数字化时代的组织管理，不能再用过去的逻辑](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9281654317765038421%22%7D&n_type=0&p_from=1)<br>
 [1100万人暂停轨迹，从封城到解封武汉76天经历了什么？](https://m.thepaper.cn/baijiahao_6874231)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[如何找到一份满意的工作？求职清单（1）：如何开启找工作？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8665781304726831280%22%7D&n_type=0&p_from=1)<br>
+[一位中年产品经理的十年产品成长路](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9239003265123443636%22%7D&n_type=0&p_from=1)<br>
+[「海报」武汉“解封日”≠抗疫“胜利日”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9647627385797607831%22%7D&n_type=0&p_from=1)<br>
+[如何快速搭建一个新项目的运营体系？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9474805615617397626%22%7D&n_type=0&p_from=1)<br>
+[案例分析：H5支付交互体验设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9342505191089185402%22%7D&n_type=0&p_from=1)<br>
 
