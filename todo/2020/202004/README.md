@@ -1,4 +1,15 @@
 # 浏览网址
+
+## 4月17日
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 ## 4月16日
 [如何快速提升自己在新团队的影响力](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9001133175937133334%22%7D&n_type=0&p_from=1)<br>
 [文案不会写？教你“池子法则”，1小时写出好文案](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9468481503845464846%22%7D&n_type=0&p_from=1)<br>
@@ -7,15 +18,12 @@
 [后疫情时期，企业突围要有这3个关键点](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8926695143452407650%22%7D&n_type=0&p_from=1)<br>
 [产品经理须知：3个超实用的底层思维模型](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9548714203189490259%22%7D&n_type=0&p_from=1)<br>
 [为App设计通知：探索不同通知模型以及使用场景](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10016819312936184796%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[聊聊我所理解的B端权限体系](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10225663446390795709%22%7D&n_type=0&p_from=1)<br>
+[产品经理经典题目之功能分析题目](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9978791797133125571%22%7D&n_type=0&p_from=1)<br>
+[百度2020产品经理群面试题和讨论过程分享](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9697213436145265944%22%7D&n_type=0&p_from=1)<br>
+[交互规范：响应式让屏幕利用更高，用户体验更佳](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10270330517946185642%22%7D&n_type=0&p_from=1)<br>
+[5G和物联网的时代，2020年直播该往哪走？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9912005317529683720%22%7D&n_type=0&p_from=1)<br>
+[为什么要切换角色去考虑产品？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10046479837367582251%22%7D&n_type=0&p_from=1)<br>
 ## 4月8日
 [四个方面，提高用户调研的有效性](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9819366987651246631%22%7D&n_type=0&p_from=1)<br>
 [武汉“解封”后首趟返京列车抵达北京西站](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8973726813417103530%22%7D&n_type=0&p_from=1)<br>
