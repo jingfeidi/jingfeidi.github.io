@@ -1,6 +1,12 @@
 # 浏览网址
-## 4月9日
-[]()<br>
+## 4月16日
+[如何快速提升自己在新团队的影响力](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9001133175937133334%22%7D&n_type=0&p_from=1)<br>
+[文案不会写？教你“池子法则”，1小时写出好文案](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9468481503845464846%22%7D&n_type=0&p_from=1)<br>
+[谈谈智慧楼宇：物联网产品设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9721881726847056495%22%7D&n_type=0&p_from=1)<br>
+[从会员运营到拼购策略：电商如何做到联动消费者](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9122552038753959962%22%7D&n_type=0&p_from=1)<br>
+[后疫情时期，企业突围要有这3个关键点](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8926695143452407650%22%7D&n_type=0&p_from=1)<br>
+[产品经理须知：3个超实用的底层思维模型](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9548714203189490259%22%7D&n_type=0&p_from=1)<br>
+[为App设计通知：探索不同通知模型以及使用场景](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10016819312936184796%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
