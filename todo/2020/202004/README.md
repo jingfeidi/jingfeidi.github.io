@@ -1,12 +1,12 @@
 # 浏览网址
 
-## 4月17日
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+## 4月21日
+[电商平台仓储物流之运费分析及设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9658146873322904427%22%7D&n_type=0&p_from=1)<br>
+[新功能上线后，如何全面地进行数据验收？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10243962343634893490%22%7D&n_type=0&p_from=1)<br>
+[B端产品定义要素：场景梳理和需求判断](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9988315711014364186%22%7D&n_type=0&p_from=1)<br>
+[微信视频号前景如何？蕴藏哪些红利？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9853872467054302993%22%7D&n_type=0&p_from=1)<br>
+[从宝洁到腾讯：我的职场转型四部曲](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10051126218977547353%22%7D&n_type=0&p_from=1)<br>
+[会留白，才能做出好设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9800110570381880135%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
