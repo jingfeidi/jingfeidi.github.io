@@ -1,9 +1,30 @@
 # 浏览网址
 
 ## 4月22日
+[关于数据监控体系，它的意义和搭建思路都在这里了](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9856082421114652620%22%7D&n_type=0&p_from=1)<br>
+[B端运营：产品商业化过程中，运营要做什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9604819610134648984%22%7D&n_type=0&p_from=1)<br>
+[用户沟通的4个阶段](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9011226654006725340%22%7D&n_type=0&p_from=1)<br>
+[中台实战（6）：业务边界的划定](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9510932471156166723%22%7D&n_type=0&p_from=1)<br>
+[2020在线教育营销运营技术的3个新趋势](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10010402666206372290%22%7D&n_type=0&p_from=1)<br>
+[微信视频号变现的11种可能](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9709500134972951566%22%7D&n_type=0&p_from=1)<br>
+[跨过小米线下渠道](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9682958465535838093%22%7D&n_type=0&p_from=1)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
 ## 4月21日
+[增强用户体验的8种微交互](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9373114233336445275%22%7D&n_type=0&p_from=1)<br>
+[以电商产品为例，聊聊渠道流量价值评估的思路](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9303132173595213812%22%7D&n_type=0&p_from=1)<br>
+[手把手教你做设计规范（3）：文案篇](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9934463100334940544%22%7D&n_type=0&p_from=1)<br>
+[产品生命周期，领导者该怎样做？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9794390627594465623%22%7D&n_type=0&p_from=1)<br>
+[如何做好瀑布流商品排序？（上）](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9790734012524810811%22%7D&n_type=0&p_from=1)<br>
+
+[三个方法，让新产品推广更容易被用户接受](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10213990300841310037%22%7D&n_type=0&p_from=1)<br>
+[3个月的企业微信实操后，我得出了这些经验心得](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10520542981786112471%22%7D&n_type=0&p_from=1)<br>
+[小产品的“中台思维”解决方案](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10078024851818009712%22%7D&n_type=0&p_from=1)<br>
+[账号设计：用户更换手机号码后，产品该如何应对？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9760897132359619228%22%7D&n_type=0&p_from=1)<br>
 [电商平台仓储物流之运费分析及设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9658146873322904427%22%7D&n_type=0&p_from=1)<br>
 [新功能上线后，如何全面地进行数据验收？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10243962343634893490%22%7D&n_type=0&p_from=1)<br>
 [B端产品定义要素：场景梳理和需求判断](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9988315711014364186%22%7D&n_type=0&p_from=1)<br>
