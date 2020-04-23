@@ -1,6 +1,27 @@
 # 浏览网址
 
+## 4月23日
+
+[信息输入框的交互思考](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9773499429821364971%22%7D&n_type=0&p_from=1)<br>
+[To B 实例：从定制开发到通用性产品](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10437456581702296500%22%7D&n_type=0&p_from=1)<br>
+[互联网团队如何用“战略地图”定战略？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10229707183992601525%22%7D&n_type=0&p_from=1)<br>
+[中台之路——《黑客帝国》中的矩阵革命](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9994541369136129295%22%7D&n_type=0&p_from=1)<br>
+[产品心理学（1）：认知力对一个产品经理有多重要？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9616374510901925976%22%7D&n_type=0&p_from=1)<br>
+[需求“简简单单”，后台开发为什么要做好几天？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9797103543551571859%22%7D&n_type=0&p_from=1)<br>
+[产品团队的建设和管理](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10010223407107605595%22%7D&n_type=0&p_from=1)<br>
+[“时间颗粒度”，帮你更好地设计产品](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10148180561341846887%22%7D&n_type=0&p_from=1)<br>
+[数据分析人员在企业中的3大作用](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10693862478588791831%22%7D&n_type=0&p_from=1)<br>
+[背靠社交电商，完美日记为何要去线下？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9904929221486909333%22%7D&n_type=0&p_from=1)<br>
+[企业做直播要到店里来](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10393578714729372083%22%7D&n_type=0&p_from=1)<br>
+[B站联合九大高校发起读书日活动，亿万流量扶持知识类直播](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9297598116943540630%22%7D&n_type=0&p_from=1)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 ## 4月22日
+
+[用情感化智能设计，给产品注入灵魂](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9666553026199286273%22%7D&n_type=0&p_from=1)<br>
+[]()<br>
 [关于数据监控体系，它的意义和搭建思路都在这里了](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9856082421114652620%22%7D&n_type=0&p_from=1)<br>
 [B端运营：产品商业化过程中，运营要做什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9604819610134648984%22%7D&n_type=0&p_from=1)<br>
 [用户沟通的4个阶段](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9011226654006725340%22%7D&n_type=0&p_from=1)<br>
