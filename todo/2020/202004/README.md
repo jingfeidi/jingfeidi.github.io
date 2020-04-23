@@ -1,7 +1,16 @@
 # 浏览网址
-
+## 4月24日
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 ## 4月23日
-
 [信息输入框的交互思考](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9773499429821364971%22%7D&n_type=0&p_from=1)<br>
 [To B 实例：从定制开发到通用性产品](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10437456581702296500%22%7D&n_type=0&p_from=1)<br>
 [互联网团队如何用“战略地图”定战略？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10229707183992601525%22%7D&n_type=0&p_from=1)<br>
@@ -28,8 +37,6 @@
 [跨产品合作的决胜要素：柔性化地分工与协作](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8993902323527206554%22%7D&n_type=0&p_from=1)<br>
 [「产业AI公开课·第一季」第三期：黑天鹅若再降临，AI 智能城市将如何比现在表现的更好？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10130349978905876753%22%7D&n_type=0&p_from=1)<br>
 [从合同审批流程出发，说说工作流引擎的设计原理](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9959414858714331104%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
 [关于数据监控体系，它的意义和搭建思路都在这里了](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9856082421114652620%22%7D&n_type=0&p_from=1)<br>
 [B端运营：产品商业化过程中，运营要做什么？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9604819610134648984%22%7D&n_type=0&p_from=1)<br>
 [用户沟通的4个阶段](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9011226654006725340%22%7D&n_type=0&p_from=1)<br>
