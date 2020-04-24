@@ -6,11 +6,24 @@
 [如何用AHP层次分析法，确定门店选址？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9745446661919662111%22%7D&n_type=0&p_from=1)<br>
 [如何设计搜索功能的入口？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9116469828315675441%22%7D&n_type=0&p_from=1)<br>
 [如何判断一个产品需求的价值？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9626490958510111709%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
+[支付宝区块链专利数达2344件 连续三年全球第一](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9825295661699179013%22%7D&n_type=0&p_from=1)<br>
+[数据分析项目是什么？有什么问题？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9922030926705441730%22%7D&n_type=0&p_from=1)<br>
+[招聘产品的商业化变现（1）：刷新](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10076590715019965645%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
 ## 4月23日
+[万物皆可“订阅制”？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9859635870882026423%22%7D&n_type=0&p_from=1)<br>
+[微信是更新了视频号等6大功能，但还远谈不上自我革命](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10201560777061657883%22%7D&n_type=0&p_from=1)<br>
+[2020年，高薪产品、运营人是如何对抗未知不确定性风险的？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9989719877547086802%22%7D&n_type=0&p_from=1)<br>
+[掌握决策的底层逻辑，提升决策能力](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10260770762406336794%22%7D&n_type=0&p_from=1)<br>
+[进击的企业服务赛道，2020年有哪些增长新思路？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10262455888663517976%22%7D&n_type=0&p_from=1)<br>
+[B端产品需求调研（2）：如何确定调研方式、调研问题](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10042989369149598119%22%7D&n_type=0&p_from=1)<br>
+[视频号该怎么玩？这些内容必须要知道](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9303407197614443014%22%7D&n_type=0&p_from=1)<br>
+[从“每日坚果”到“植物肉”，同质化严重的休闲零食行业该如何创新？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9927286377531010366%22%7D&n_type=0&p_from=1)<br>
+[B站 VS 知乎：用户扩圈的背向而行](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9919649401674258621%22%7D&n_type=0&p_from=1)<br>
+[如何充分了解客户业务，提高调研的效率和质量？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9951092925940586396%22%7D&n_type=0&p_from=1)<br>
+[线上顾客体验不好，你需要重新思考这9个问题](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9686646919015496677%22%7D&n_type=0&p_from=1)<br>
 [手把手教你搞定视频号认证](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9200339531648760480%22%7D&n_type=0&p_from=1)<br>
 [如何打造电商商品主图，让业绩翻倍？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10222570863757201409%22%7D&n_type=0&p_from=1)<br>
 [产品深思系列（1）：“我该如何更有效执行？”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9546064680819477146%22%7D&n_type=0&p_from=1)<br>
