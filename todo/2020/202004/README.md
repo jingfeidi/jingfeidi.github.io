@@ -4,8 +4,8 @@
 
 ## 4月25日
 [超全达人运营攻略：如何俘获KOC的心？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10013849201320239626%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
+[疫情当前，农村脱贫怎么办？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9800470858051161208%22%7D&n_type=0&p_from=1)<br>
+[15个问题，带你了解直播带货的真相](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9452103286157120181%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
@@ -28,10 +28,21 @@
 [支付宝区块链专利数达2344件 连续三年全球第一](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9825295661699179013%22%7D&n_type=0&p_from=1)<br>
 [数据分析项目是什么？有什么问题？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9922030926705441730%22%7D&n_type=0&p_from=1)<br>
 [招聘产品的商业化变现（1）：刷新](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10076590715019965645%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[如何用AHP层次分析法，确定门店选址？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9745446661919662111%22%7D&n_type=0&p_from=1)<br>
+[私域论专题报告（2）：行业深度分析报告](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10019560464221222422%22%7D&n_type=0&p_from=1)<br>
+[如何判断一个产品需求的价值？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9626490958510111709%22%7D&n_type=0&p_from=1)<br>
+[“特殊”的产业互联网，“特殊”的发展之道](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8825457082105402282%22%7D&n_type=0&p_from=1)<br>
+[产品经理周报第 108 期｜抖音上线视频通话功能；京东快递落地高端商务楼宇一站式快递服务](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10144047123356425864%22%7D&n_type=0&p_from=1)<br>
+[京东促销体系的三个问题，该如何解决？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9907168733477154824%22%7D&n_type=0&p_from=1)<br>
+[手机键盘交互细节：视觉效果与触发区域之间的交互逻辑](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10030131821931117277%22%7D&n_type=0&p_from=1)<br>
+[产品分析｜小红书，如何打造内容电商的商业模式壁垒？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9729600148194447733%22%7D&n_type=0&p_from=1)<br>
+[儿童硬件领域：语音只是起点，进化还看视觉](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10254849450020382963%22%7D&n_type=0&p_from=1)<br>
+[这个需求很简单，为什么却要开发 N 天？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10050549413520592830%22%7D&n_type=0&p_from=1)<br>
+[招聘产品的商业化变现（1）：刷新](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10076590715019965645%22%7D&n_type=0&p_from=1)<br>
+[在疫情期间公司裁员情况下，如何保证进度，稳定团队成员情绪？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9592150367162261375%22%7D&n_type=0&p_from=1)<br>
 ## 4月23日
+[B 端的管理平台设计有哪些基础知识？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9467055368604053137%22%7D&n_type=0&p_from=1)<br>
+[如何打造电商商品主图，让业绩翻倍？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10222570863757201409%22%7D&n_type=0&p_from=1)<br>
 [万物皆可“订阅制”？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9859635870882026423%22%7D&n_type=0&p_from=1)<br>
 [微信是更新了视频号等6大功能，但还远谈不上自我革命](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10201560777061657883%22%7D&n_type=0&p_from=1)<br>
 [2020年，高薪产品、运营人是如何对抗未知不确定性风险的？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9989719877547086802%22%7D&n_type=0&p_from=1)<br>
