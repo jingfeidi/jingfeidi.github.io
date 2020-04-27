@@ -1,19 +1,33 @@
 # 浏览网址
 ## 4月27日
+[B端产品经理：如何用流程优化进行产品设计？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9688767846749273455%22%7D&n_type=0&p_from=1)<br>
+[内容运营：如何持续输出优质内容？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9243075955128887983%22%7D&n_type=0&p_from=1)<br>
+[外包产品经理：从需求到功能，既要有借鉴也要创新](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9851321935024787117%22%7D&n_type=0&p_from=1)<br>
+[办公室文员转行新媒体运营，首先你要关注这些问题](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9527192864925000171%22%7D&n_type=0&p_from=1)<br>
+[产品经理如何快速定位「数据异常」问题？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9913200924818172935%22%7D&n_type=0&p_from=1)<br>
+[解密微信视频号推荐机制（二）](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9654012142500222272%22%7D&n_type=0&p_from=1)<br>
+[APP设计盘点：4个成为标杆的超强体验设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9684679033604927259%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
 []()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[产品经理读心术（一）：小动作背后的秘密](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9237003322263798862%22%7D&n_type=0&p_from=1)<br>
 ## 4月26日
 [新冠疫情将致2020年各行业IT支出普遍下降 削减幅度因行业而异](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_6699251317765338976%22%7D&n_type=0&p_from=1)<br>
+[谁说增长不香了？教你一个低预算也能完成增长的模型](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8860236735116747168%22%7D&n_type=0&p_from=1)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[如何设计出“让用户高效使用”的表单？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9416555100166610319%22%7D&n_type=0&p_from=1)<br>
+[当同事问你“数据产品的价值”是什么？你的回答很重要](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8668787622985707174%22%7D&n_type=0&p_from=1)<br>
+[以猫眼数据报告为例，拆解分析逻辑框架](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9546951990895972204%22%7D&n_type=0&p_from=1)<br>
+[需求沟通失误“被背锅”后，我的几点反思](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8925025719754506063%22%7D&n_type=0&p_from=1)<br>
+[「跳出去」与「沉下来」：拥抱变化的两种视角](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8848617856397859272%22%7D&n_type=0&p_from=1)<br>
 
 ## 4月25日
 [超全达人运营攻略：如何俘获KOC的心？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10013849201320239626%22%7D&n_type=0&p_from=1)<br>
