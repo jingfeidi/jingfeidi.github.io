@@ -77,6 +77,7 @@ fis.match('*.{jpg,png}', {
     })
 })
 ```
+小于8KB的图片，用 Image inline 来做<br>
 ## css、js的加载与执行
 ## 懒加载与预加载
 ## 重绘与回流
