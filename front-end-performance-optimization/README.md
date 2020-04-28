@@ -33,7 +33,7 @@
 使用构建工具gulp、fis3、webpack等<br>
 构建工具官网<br>
 [webpack中文网](https://www.webpackjs.com/concepts/)&nbsp;&nbsp;[webpack官网](https://webpack.github.io/)&nbsp;&nbsp;
-[fis3](http://fis.baidu.com/fis3/docs/beginning/intro.html)&nbsp;&nbsp;
+[fis3](http://fis.baidu.com/fis3/docs/beginning/intro.html)&nbsp;&nbsp;[fis3的GitHub](https://github.com/fex-team/fis3)&nbsp;&nbsp;
 [gulp](https://www.gulpjs.com.cn/docs/getting-started/quick-start/)<br>
 [fis3流程图](https://upload-images.jianshu.io/upload_images/704129-b488c5f93b1b0eb5.png)<br>
 ## 图片相关的优化
