@@ -31,6 +31,8 @@
 3. 随机应变，怎么合适怎么来<br>
 ### 如何进行文件合并
 使用构建工具gulp、fis3、webpack等<br>
+构建工具官网<br>
+[fis3](http://fis.baidu.com/)<br>
 
 ## 图片相关的优化
 ## css、js的加载与执行
