@@ -35,6 +35,7 @@
 [webpack中文网](https://www.webpackjs.com/concepts/)&nbsp;&nbsp;[webpack官网](https://webpack.github.io/)&nbsp;&nbsp;
 [fis3](http://fis.baidu.com/fis3/docs/beginning/intro.html)&nbsp;&nbsp;
 [gulp](https://www.gulpjs.com.cn/docs/getting-started/quick-start/)<br>
+[fis3流程图](https://upload-images.jianshu.io/upload_images/704129-b488c5f93b1b0eb5.png)<br>
 ## 图片相关的优化
 ## css、js的加载与执行
 ## 懒加载与预加载
