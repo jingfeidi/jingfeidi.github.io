@@ -4,9 +4,9 @@
 **命令**<br>
 进入项目根目录，执行命令，进行构建。<br>
 项目根目录：FIS3 配置文件（默认fis-conf.js）所在的目录为项目根目录。<br>
-``
+```
 fis3 release -d <path>
-``
+```
 ## 常用例子
 [fis3 demo的GitHub](https://github.com/fex-team/fis3-demo)<br>
 ## fis3 demo
