@@ -80,7 +80,10 @@ fis.match('*.{jpg,png}', {
 小于8KB的图片，用 Image inline 来做<br><br>
 **雪碧图制作**<br>
 在PS里，将多个icon合成一张图<br>
-雪碧图样式生成&nbsp; http://www.spritecow.com/ <br>
+雪碧图样式生成&nbsp; http://www.spritecow.com/ <br><br>
+**SVG:**<br>
+https://www.w3school.com.cn/svg/index.asp <br>
+https://www.w3.org/Graphics/SVG/ <br>
 ## css、js的加载与执行
 ## 懒加载与预加载
 ## 重绘与回流
