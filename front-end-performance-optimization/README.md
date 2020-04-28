@@ -68,6 +68,14 @@ WebP 的优势体现在它具有更优的图像数据压缩算法，能带来更
 https://www.iconfont.cn/<br>
 https://tinypng.com/ &nbsp;png压缩<br>
 https://zhitu.isux.us/ &nbsp;转为webp图片<br>
+```
+fis.match('*.{jpg,png}', {
+  rExt: 'webp',
+  parser: fis.plugin('webp',{
+    quality: 60
+  })
+});
+```
 ## css、js的加载与执行
 ## 懒加载与预加载
 ## 重绘与回流
