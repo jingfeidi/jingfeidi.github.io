@@ -30,7 +30,7 @@
 实际做的过程中，当前端路由到单页面某个页面的时候，我们才去加载那个页面的组件，才去加载那个页面所对应的js文件。这样就是将不同页面的js进行分别打包。这种方式在webpack中可以实现。<br>
 3. 随机应变，怎么合适怎么来<br>
 ### 如何进行文件合并
-使用构建工具gulp、fis3、webpack等<br>
+使用构建工具gulp、fis3、webpack等进行文件合并<br>
 构建工具官网<br>
 [webpack中文网](https://www.webpackjs.com/concepts/)&nbsp;&nbsp;[webpack官网](https://webpack.github.io/)&nbsp;&nbsp;
 [fis3](http://fis.baidu.com/fis3/docs/beginning/intro.html)&nbsp;&nbsp;[fis3的GitHub](https://github.com/fex-team/fis3)&nbsp;&nbsp;
