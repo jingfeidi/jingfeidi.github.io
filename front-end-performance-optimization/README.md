@@ -40,15 +40,14 @@
 [gulp](https://www.gulpjs.com.cn/docs/getting-started/quick-start/)<br>
 ## 图片相关的优化
 不同格式图片常用的业务场景<br>
-jpg有损压缩，压缩率高，不支持透明<br>
-如果png8能支持实际开发，文件大小会更小些<br>
+jpg有损压缩，压缩率高，不支持透明&nbsp;(如果png8能支持实际开发，文件大小会更小些)<br>
 png支持透明，浏览器兼容好<br>
 webp压缩程度更好，在ios webview有兼容性问题，但在安卓中支持比较好 <br>
 svg矢量图，代码内嵌，相对较小，图片样式相对简单的场景<br>
 jpg —— 大部分不需要透明图片的业务场景<br>
 png —— 大部分需要透明图片的业务场景<br>
 webp —— 安卓全部<br>
-svg矢量图 —— 图片样式相对简单的业务场景&nbsp;[logo，小的icon(用iconfont)]<br>
+svg矢量图 —— 图片样式相对简单的业务场景&nbsp;{logo，小的icon(用iconfont)}<br>
 
 ## css、js的加载与执行
 ## 懒加载与预加载
