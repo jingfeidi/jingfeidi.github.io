@@ -48,7 +48,7 @@ svg矢量图，代码内嵌，相对较小，图片样式相对简单的场景<b
 jpg —— 大部分不需要透明图片的业务场景<br>
 png —— 大部分需要透明图片的业务场景<br>
 webp —— 安卓全部<br>
-svg矢量图 —— 图片样式相对简单的业务场景[logo，小的icon(用iconfont)]<br>
+svg矢量图 —— 图片样式相对简单的业务场景&nbsp;[logo，小的icon(用iconfont)]<br>
 
 ## css、js的加载与执行
 ## 懒加载与预加载
