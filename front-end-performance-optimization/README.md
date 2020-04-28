@@ -39,6 +39,12 @@
 [webpack中文网](https://www.webpackjs.com/concepts/)&nbsp;&nbsp;[webpack官网](https://webpack.github.io/)&nbsp;&nbsp;
 [gulp](https://www.gulpjs.com.cn/docs/getting-started/quick-start/)<br>
 ## 图片相关的优化
+不同格式图片常用的业务场景<br>
+jpg有损压缩，压缩率高，不支持透明<br>
+png支持透明，浏览器兼容好<br>
+webp压缩程度更好，在ios webview有兼容性问题 <br>
+svg矢量图，代码内嵌，相对较小，图片样式相对简单的场景<br>
+
 ## css、js的加载与执行
 ## 懒加载与预加载
 ## 重绘与回流
