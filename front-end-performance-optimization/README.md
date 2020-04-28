@@ -90,10 +90,11 @@ https://www.w3.org/Graphics/SVG/WG/track/ <br>
 ![](https://github.com/jingfeidi/jingfeidi.github.io/blob/master/front-end-performance-optimization/img/htmlrender.png)<br>
 html页面加载渲染的过程<br>
 ### HTML渲染过程的一些特点
-顺序执行、并发加载
-是否阻塞
-依赖关系
-引入方式
+**顺序执行、并发加载**<br>
+并发加载：html可能引入很多css/js等外部资源，这些外部资源在浏览器加载过程时并发加载的。并发加载过程，受浏览器域名限制，对单个域名，我们浏览器并发度是有限的，所以这时，我们经常(很多资源是托管在CDN上的)，设3到4个CDN域名，防止一个CDN域名未达到浏览器外部资源并发请求数目的上限，导致很多资源其实没有做到全部的并发请求。
+**是否阻塞**<br>
+**依赖关系**<br>
+**引入方式**<br>
 
 
 ## 懒加载与预加载
