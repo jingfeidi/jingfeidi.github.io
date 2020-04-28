@@ -78,6 +78,9 @@ fis.match('*.{jpg,png}', {
 })
 ```
 小于8KB的图片，用 Image inline 来做<br>
+**雪碧图制作**
+在PS里，将多个图片合成一张图
+雪碧图样式生成&nbsp; http://www.spritecow.com/ <br>
 ## css、js的加载与执行
 ## 懒加载与预加载
 ## 重绘与回流
