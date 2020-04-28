@@ -68,9 +68,10 @@ WebP 的优势体现在它具有更优的图像数据压缩算法，能带来更
 https://www.iconfont.cn/<br>
 https://tinypng.com/ &nbsp;png压缩<br>
 https://zhitu.isux.us/ &nbsp;转为webp图片<br>
+fis3 将jpg和png 转为webp图片<br>
 ```
 fis.match('*.{jpg,png}', {
-  rExt: 'webp',
+  rExt: '.webp',
   parser: fis.plugin('webp',{
     quality: 60
   })
