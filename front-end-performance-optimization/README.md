@@ -32,8 +32,9 @@
 ### 如何进行文件合并
 使用构建工具gulp、fis3、webpack等<br>
 构建工具官网<br>
-[fis3](http://fis.baidu.com/)<br>
-
+[webpack中文网](https://www.webpackjs.com/concepts/)<br>
+[fis3](http://fis.baidu.com/fis3/docs/beginning/intro.html)<br>
+[gulp](https://www.gulpjs.com.cn/docs/getting-started/quick-start/)<br>
 ## 图片相关的优化
 ## css、js的加载与执行
 ## 懒加载与预加载
