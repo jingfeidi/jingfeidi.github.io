@@ -39,7 +39,7 @@
 [webpack中文网](https://www.webpackjs.com/concepts/)&nbsp;&nbsp;[webpack官网](https://webpack.github.io/)&nbsp;&nbsp;
 [gulp](https://www.gulpjs.com.cn/docs/getting-started/quick-start/)<br>
 ## 图片相关的优化
-不同格式图片常用的业务场景<br>
+### 不同格式图片常用的业务场景<br>
 jpg有损压缩，压缩率高，不支持透明&nbsp;(如果png8能支持实际开发，文件大小会更小些)<br>
 png支持透明，浏览器兼容好<br>
 webp压缩程度更好，在ios webview有兼容性问题，但在安卓中支持比较好 <br>
@@ -48,6 +48,19 @@ jpg —— 大部分不需要透明图片的业务场景<br>
 png —— 大部分需要透明图片的业务场景<br>
 webp —— 安卓全部<br>
 svg矢量图 —— 图片样式相对简单的业务场景&nbsp;{logo，小的icon(用iconfont)}<br>
+### 图片压缩几种方法
+图片压缩：针对真实图片情况，舍弃一些相对无关紧要的色彩信息<br>
+#### CSS雪碧图<br>
+把你的网站上用到的一些图片整合到一张单独的图片中<br>
+减少你的网站的HTTP请求数量
+#### Image inline
+将图片的内容内嵌到html当中<br>
+减少你的网站的HTTP请求数量
+#### 使用矢量图
+使用SVG进行矢量图的绘制<br>
+使用iconfont解决icon问题
+#### 在安卓下使用webp
+WebP 的优势体现在它具有更优的图像数据压缩算法，能带来更小的图片体积，而且拥有肉眼识别无差异的图像质量；同时具备了无损和有损的压缩模式、Alpha 透明以及动画的特性，在 JPEG 和 PNG 上的转化效果都非常优秀、稳定和统一。
 
 ## css、js的加载与执行
 ## 懒加载与预加载
