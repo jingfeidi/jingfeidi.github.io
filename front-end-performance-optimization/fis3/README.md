@@ -7,6 +7,18 @@
 ```
 fis3 release -d <path>
 ```
+构建发布到项目目录的 output 目录下
+```
+fis3 release -d ./output
+```
+构建发布到项目父级目录的 dist 子目录下
+```
+fis3 release -d ../dist
+```
+发布到其他盘 （Windows）
+```
+fis3 release -d D:\output
+```
 ## 常用例子
 [fis3 demo的GitHub](https://github.com/fex-team/fis3-demo)<br>
 ## fis3 demo
