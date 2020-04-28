@@ -87,6 +87,8 @@ https://www.w3.org/Graphics/SVG/ <br>
 Graphics：图形 <br>
 https://www.w3.org/Graphics/SVG/WG/track/ <br>
 ## css、js的加载与执行
+![](https://github.com/jingfeidi/jingfeidi.github.io/blob/master/front-end-performance-optimization/img/htmlrender.png)<br>
+html页面加载渲染的过程<br>
 ## 懒加载与预加载
 ## 重绘与回流
 ## 浏览器存储
