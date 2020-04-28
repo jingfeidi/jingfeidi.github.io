@@ -66,8 +66,8 @@ svg矢量图 —— 图片样式相对简单的业务场景&nbsp;{logo，小的i
 WebP 的优势体现在它具有更优的图像数据压缩算法，能带来更小的图片体积，而且拥有肉眼识别无差异的图像质量；同时具备了无损和有损的压缩模式、Alpha 透明以及动画的特性，在 JPEG 和 PNG 上的转化效果都非常优秀、稳定和统一。<br>
 
 https://www.iconfont.cn/<br>
-https://tinypng.com/ png压缩<br>
-
+https://tinypng.com/ &nbsp;png压缩<br>
+https://zhitu.isux.us/ &nbsp;转为webp图片<br>
 ## css、js的加载与执行
 ## 懒加载与预加载
 ## 重绘与回流
