@@ -89,6 +89,13 @@ https://www.w3.org/Graphics/SVG/WG/track/ <br>
 ## css、js的加载与执行
 ![](https://github.com/jingfeidi/jingfeidi.github.io/blob/master/front-end-performance-optimization/img/htmlrender.png)<br>
 html页面加载渲染的过程<br>
+### HTML渲染过程的一些特点
+顺序执行、并发加载
+是否阻塞
+依赖关系
+引入方式
+
+
 ## 懒加载与预加载
 ## 重绘与回流
 ## 浏览器存储
