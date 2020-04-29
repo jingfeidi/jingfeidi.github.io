@@ -21,15 +21,15 @@
 [直播带货，新零售的“前哨”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10133831998992830177%22%7D&n_type=0&p_from=1)<br>
 [大厂运营实战：3年3次转岗，如何提升快速学习能力？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9381150121391557218%22%7D&n_type=0&p_from=1)<br>
 [全面梳理非交易类平台产品设计原则](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9678389384793114277%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
-[]()<br><br>
+[「在线教育如何“拥抱”未来」在线学习的喜与忧](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9294190103264263978%22%7D&n_type=0&p_from=1)<br>
+[项目管理过程中，如何实现可视化价值？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9119018225594918127%22%7D&n_type=0&p_from=1)<br><br>
 
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[顺丰速运：打通疫情下的物流“任督二脉”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9537715835585195391%22%7D&n_type=0&p_from=1)<br>
+[B端设计指南：“按钮”究竟应该如何设计？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9557415441752937336%22%7D&n_type=0&p_from=1)<br>
+[确定需求阶段，产品经理需要注意这5个问题](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9245656298432777340%22%7D&n_type=0&p_from=1)<br>
+[金融「中台」十宗罪](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10656710509009014158%22%7D&n_type=0&p_from=1)<br>
+[智慧城市为什么需要以芯片为核心的生态？｜英特尔AI百佳创新激励计划](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10221571313240302452%22%7D&n_type=0&p_from=1)<br>
+[两大要点，解析短内容为何崛起？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8757381223386275176%22%7D&n_type=0&p_from=1)<br>
 []()<br><br>
 
 []()<br>
