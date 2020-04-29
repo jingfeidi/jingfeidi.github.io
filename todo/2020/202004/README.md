@@ -8,6 +8,22 @@
 [高德打车联合AutoX启动无人驾驶网约车，上海招募免费体验用户](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9836243262718449429%22%7D&n_type=0&p_from=1)<br>
 [以B端供应链产品为例，如何撰B端产品PRD？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10564926881731567275%22%7D&n_type=0&p_from=1)<br><br>
 
+[新人入门：To B 的权限体系设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9638172775458842040%22%7D&n_type=0&p_from=1)<br>
+[网络世界的“身后事”：当你走了，谁有权处置你的社交账号？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9352177805393612702%22%7D&n_type=0&p_from=1)<br>
+[医美消费回归理性化，营销该何去何从？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8720135198199643347%22%7D&n_type=0&p_from=1)<br>
+[健身+直播：模式、问题和未来](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9070000592704155657%22%7D&n_type=0&p_from=1)<br>
+[产品经理：3W1H分析法，教你写好上线邮件](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9609550804231423432%22%7D&n_type=0&p_from=1)<br>
+[3天时间，全面认识2020年最火的数据产品经理岗位！](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10190677553373188473%22%7D&n_type=0&p_from=1)<br>
+[一文读懂推荐系统用户画像](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9326792929302116950%22%7D&n_type=0&p_from=1)<br><br>
+
+[应聘AI产品经理，首先要知道的AI公司分类](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9117740386859763090%22%7D&n_type=0&p_from=1)<br>
+[电信联通5G无线主设备集中采购：华为和中兴通讯共占88%](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9189251897336106783%22%7D&n_type=0&p_from=1)<br>
+[直播带货，新零售的“前哨”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10133831998992830177%22%7D&n_type=0&p_from=1)<br>
+[大厂运营实战：3年3次转岗，如何提升快速学习能力？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9381150121391557218%22%7D&n_type=0&p_from=1)<br>
+[全面梳理非交易类平台产品设计原则](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9678389384793114277%22%7D&n_type=0&p_from=1)<br>
+[]()<br>
+[]()<br><br>
+
 []()<br>
 []()<br>
 []()<br>
@@ -22,7 +38,15 @@
 []()<br>
 []()<br>
 []()<br>
+[]()<br><br>
+
 []()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br><br>
 ## 4月28日
 [1套流程，梳理产品设计项目的“从0到1”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9085819159335599952%22%7D&n_type=0&p_from=1)<br>
 [如何做产品迭代的节奏大师](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10101491904581278005%22%7D&n_type=0&p_from=1)<br>
