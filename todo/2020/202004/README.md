@@ -1,4 +1,28 @@
 # 浏览网址
+## 4月29日
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br><br>
+
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br><br>
+
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 ## 4月28日
 [1套流程，梳理产品设计项目的“从0到1”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9085819159335599952%22%7D&n_type=0&p_from=1)<br>
 [如何做产品迭代的节奏大师](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10101491904581278005%22%7D&n_type=0&p_from=1)<br>
@@ -6,7 +30,8 @@
 [大数据：疫情期间的互联网怎么了？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8593073525617166283%22%7D&n_type=0&p_from=1)<br>
 [从内容到IP，文化社区产品还可以这么玩](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9422299597432194131%22%7D&n_type=0&p_from=1)<br>
 [灵活用工模式：税务解决方案的业务架构](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9851529150164583604%22%7D&n_type=0&p_from=1)<br>
-[新基建时代的自动驾驶——觉非科技“数据引擎”中台突围战](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9449843235626209341%22%7D&n_type=0&p_from=1)<br>
+[新基建时代的自动驾驶——觉非科技“数据引擎”中台突围战](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9449843235626209341%22%7D&n_type=0&p_from=1)<br><br>
+
 [阅文高层震荡：吴文辉团队退出，腾讯程武接手](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9141236379221408208%22%7D&n_type=0&p_from=1)<br>
 [阅文新CEO程武内部信：下步要实现IP培育能、链接能力、业务模式升级](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9593324817335073815%22%7D&n_type=0&p_from=1)<br>
 [吴文辉淡出阅文集团 “网文之父”下一个起点在哪里？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9021372053829275875%22%7D&n_type=0&p_from=1)<br>
@@ -14,6 +39,7 @@
 [阅文功成名就，能否“越过山丘”？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9912547943797894422%22%7D&n_type=0&p_from=1)<br>
 [拼多多年报：构建自己的电商新世界](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9371312743566874242%22%7D&n_type=0&p_from=1)<br>
 [阅文高层大换血，腾讯副总裁程武出任CEO，事情一开始就注定……](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9844049546181574055%22%7D&n_type=0&p_from=1)<br>
+
 [互联网产品的新趋势：kill time的产品包裹上save time的糖衣](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9284730235825366831%22%7D&n_type=0&p_from=1)<br>
 ## 4月27日
 [从面试者到面试官，我总结了提升面试成功率的5大关键要素](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8791252610967452911%22%7D&n_type=0&p_from=1)<br>
