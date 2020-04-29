@@ -1,12 +1,12 @@
 # 浏览网址
 ## 4月29日
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br><br>
+[流失到回归：看内容社区的“核心竞争力”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9681481524999852205%22%7D&n_type=0&p_from=1)<br>
+[B端产品、C端产品是指什么](https://www.jianshu.com/p/67a4fe014234)<br>
+[从电视购物到直播电商，中国屏幕经济的发展之路](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9286491735125804135%22%7D&n_type=0&p_from=1)<br>
+[从访问性障碍出发，聊聊Neumorphism的可用性](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9998618448473565829%22%7D&n_type=0&p_from=1)<br>
+[新零售的营销生态（一）：新零售营销中心的搭建](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9723003984631283943%22%7D&n_type=0&p_from=1)<br>
+[高德打车联合AutoX启动无人驾驶网约车，上海招募免费体验用户](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9836243262718449429%22%7D&n_type=0&p_from=1)<br>
+[以B端供应链产品为例，如何撰B端产品PRD？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10564926881731567275%22%7D&n_type=0&p_from=1)<br><br>
 
 []()<br>
 []()<br>
