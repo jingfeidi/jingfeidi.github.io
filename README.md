@@ -15,6 +15,6 @@ git&github操作技巧
 ## AGCN
 动画Animation、游戏Game、漫画Comic、轻小说Light Novel
 ## reading notes
-读书笔记..............
+读书笔记
 ## Water-drops-on-stone
 业余生活其他方面的知识积累
