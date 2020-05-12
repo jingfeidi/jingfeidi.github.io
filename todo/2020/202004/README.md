@@ -1,4 +1,20 @@
 # 浏览网址
+## 5月13日
+[数据需求文档案例：豆瓣“书影音档案”功能埋点设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9639566754567733016%22%7D&n_type=0&p_from=1)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br><br>
+
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br><br>
 ## 4月29日
 [流失到回归：看内容社区的“核心竞争力”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9681481524999852205%22%7D&n_type=0&p_from=1)<br>
 [B端产品、C端产品是指什么](https://www.jianshu.com/p/67a4fe014234)<br>
@@ -30,22 +46,6 @@
 [金融「中台」十宗罪](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10656710509009014158%22%7D&n_type=0&p_from=1)<br>
 [智慧城市为什么需要以芯片为核心的生态？｜英特尔AI百佳创新激励计划](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10221571313240302452%22%7D&n_type=0&p_from=1)<br>
 [两大要点，解析短内容为何崛起？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8757381223386275176%22%7D&n_type=0&p_from=1)<br>
-[]()<br><br>
-
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br><br>
-
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
 []()<br><br>
 ## 4月28日
 [1套流程，梳理产品设计项目的“从0到1”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9085819159335599952%22%7D&n_type=0&p_from=1)<br>
