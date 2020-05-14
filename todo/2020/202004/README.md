@@ -1,7 +1,7 @@
 # 浏览网址
 ## 5月13日
 [数据需求文档案例：豆瓣“书影音档案”功能埋点设计](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9639566754567733016%22%7D&n_type=0&p_from=1)<br>
-[]()<br>
+[后台产品经理，需掌握这些数据交互知识](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9489595236773184595%22%7D&n_type=0&p_from=1)<br>
 []()<br>
 []()<br>
 []()<br>
