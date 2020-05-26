@@ -6,4 +6,5 @@
 3. 粘贴到 atom软件中(例如test.html)，按快捷键(Ctrl+Alt+B/Command+S)进行格式化代码。<br>
 Windows电脑快捷键Ctrl+Alt+B<br>
 Mac苹果电脑快捷键Command+S<br>
-注：atom软件中要先安装atom-beautify插件
+注：atom软件中要先安装atom-beautify插件<br><br>
+[Atom软件（安装/使用/插件/快捷键/tips）](https://github.com/jingfeidi/jingfeidi.github.io/blob/master/software-tools/atom.md)<br>
