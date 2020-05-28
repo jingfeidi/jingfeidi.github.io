@@ -79,10 +79,10 @@ Ctrl + Shift + V — 搜索框内容粘贴<br><br>
 选择packages，搜索markdown-preview，禁用它；<br>
 在markdown-preview-enhanced下载完成后，enable（启用它）；<br>
 导出pdf文件的方法：在atom中，先从file进入settings,选择install，搜索markdown-pdf，点击下载；<br><br>
-**Atom 快捷键冲突，失效问题**<br><br>
+**Atom 快捷键冲突，失效问题：**<br>
 ctrl+, => Settings，失效：<br>
-在Keybindings中搜索'ctrl+,'，<br><br>
-**复制冲突的Selector，取消绑定**<br>
+在Keybindings中搜索'ctrl+,'，<br>
+复制冲突的Selector，取消绑定。<br>
 ```
 'body':
      'ctrl-,':'unset!'
