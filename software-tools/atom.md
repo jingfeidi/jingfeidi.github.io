@@ -77,6 +77,7 @@ Ctrl + Shift + M — .md文件预览<br><br>
 选择packages，搜索markdown-preview，禁用它；<br>
 在markdown-preview-enhanced下载完成后，enable（启用它）；<br>
 导出pdf文件的方法：在atom中，先从file进入settings,选择install，搜索markdown-pdf，点击下载；<br><br>
+**Atom 快捷键冲突，失效问题**<br><br>
 
 ## 4.快捷键    
 <table><thead><tr><th align="center">英文</th>
