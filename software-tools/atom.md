@@ -30,6 +30,7 @@ Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
     Updates — 目前功能只有一个,查询社区包的状态,随时随地的更新已安装的插件,Atom 软件的更新在 HELP 里面<br>
     Install — 目前分为两栏,自上而下,第一部分是搜索(可以搜索社区的插件),下面一部分会展示目前比较流行的插件(可以直接点击下载使用)<br>
     Open Config Folder — 这一块算不上鼠标操作控制,完全是软件的配置文件集合目录<br><br>
+    
 **前端插件推荐**<br>
 参考：[Atom使用教程-插件主题推荐](https://wiki.jikexueyuan.com/project/atom/plug-in.html)&nbsp;&nbsp;[Atom的插件必备](https://www.jianshu.com/p/b779e2e5e3ef)&nbsp;不一 一列举<br><br>
 1.emmet — 加快web开发速度，提供snippet(代码片段)、abbreviation expand(简写展开)功能。<br>
@@ -37,11 +38,11 @@ Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
 3.autoprefixer — 自动为 CSS 属性添加特定的前缀<br>
 4.color-picker — 取色器,在编辑器里面挑选颜色<br>
 5.linter — 代码校验工具(必备)<br>
-&nbsp;&nbsp;linter-jshint, for JavaScript and JSON, using jshint<br>
-&nbsp;&nbsp;linter-coffeelint, for CoffeeScript, using coffeelint<br>
-&nbsp;&nbsp;linter-tslint, for Typescript, using tslint<br>
-&nbsp;&nbsp;linter-php, for PHP using php -l<br>
-&nbsp;&nbsp;linter-pylint, for Python, using pylint<br>
+&nbsp;&nbsp;  linter-jshint, for JavaScript and JSON, using jshint<br>
+&nbsp;&nbsp;  linter-coffeelint, for CoffeeScript, using coffeelint<br>
+&nbsp;&nbsp;  linter-tslint, for Typescript, using tslint<br>
+&nbsp;&nbsp;  linter-php, for PHP using php -l<br>
+&nbsp;&nbsp;  linter-pylint, for Python, using pylint<br>
 &nbsp;&nbsp;  linter-scss-lint, for SASS/SCSS, using scss-lint<br>
 &nbsp;&nbsp;  linter-less, for LESS, using less<br>
 &nbsp;&nbsp;  linter-csslint, for CSS, using csslint<br>
@@ -55,9 +56,12 @@ Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
 &nbsp;&nbsp;  autocomplete-python — python代码自动补全<br>
 &nbsp;&nbsp;  autocomplete-bibtex — Github 的 markdown 语法<br>
 7.less-autocompile — 实时编译，less文件编译为css文件<br>
-  docblockr — 注释插件<br><br>
+&nbsp;&nbsp;  docblockr — 注释插件<br><br>
 
-## 3.快捷键    
+## 3.tips
+Ctrl + Shift + P — 全局搜索面板<br>
+Ctrl + Shift + M — .md文件预览<br><br>
+## 4.快捷键    
 <table><thead><tr><th align="center">英文</th>
   <th align="center">中文</th>
   <th align="left">快捷键</th>
