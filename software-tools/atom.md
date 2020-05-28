@@ -19,7 +19,7 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
     Help — 帮助文档,软件更新,协议等<br><br>
     
 设置中心 File=>Settings<br>
-  左边侧栏,自上而下分为六大部分<br>
+  左边侧栏-自上而下分为六大部分<br>
     Settings — 全局设置,可以设置文件的编码,菜单栏是否显示,忽略文件,文档缩进,字体大小,项目主目录等,这个比 sublime text 人性化,简洁明了的配置<br>
     Keybindings — 快捷键配置,默认快捷键都汇总于此了,很方便查询对应的快捷键的功能,也方便修改…人性化<br>
     Packages — 插件管理中心,可以设置插件,删除插件及禁用,无安装功能<br>
@@ -27,7 +27,8 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
     Updates — 目前功能只有一个,查询社区包的状态,随时随地的更新已安装的插件,Atom 软件的更新在 HELP 里面<br>
     Install — 目前分为两栏,自上而下,第一部分是搜索(可以搜索社区的插件),下面一部分会展示目前比较流行的插件(可以直接点击下载使用)<br>
     Open Config Folder — 这一块算不上鼠标操作控制,完全是软件的配置文件集合目录<br><br>
-    
+
+## 3.快捷键    
 <table><thead><tr><th align="center">英文</th>
   <th align="center">中文</th>
   <th align="left">快捷键</th>
@@ -133,8 +134,8 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
   <td align="left">Ctrl + |Sublime的Ctrl+K,+B这里也可以生效</td>
   <td align="center"></td>
 </tr><tr><td align="center">Toggle Commadn palette</td>
-  <td align="center">全局搜索面板</td>
-  <td align="left">Ctrl + Shift + P</td>
+  <td align="center" style="color:red;">全局搜索面板</td>
+  <td align="left" style="color:red;">Ctrl + Shift + P</td>
   <td align="center">和Sublime的大同小异</td>
 </tr><tr><td align="center">Select Line</td>
   <td align="center">选定一行</td>
