@@ -47,5 +47,28 @@
 </ul>
 ```
 3.li标签左间距设置-3px；（不推荐）<br>
+```
+li{
+    display: inline-block;
+    width: 50px;
+    height:50px;
+    background: black;
+    list-style:none;
+    margin:-3px;<!--设置的间距-->
+}
+
+```
 4.使用font-size:0（不推荐）<br>
+```
+<ul class="space">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+.space {
+    font-size: 0;
+    -webkit-text-size-adjust:none;
+}
+```
 
