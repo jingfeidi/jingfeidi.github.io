@@ -69,9 +69,9 @@ Ctrl + Shift + M — .md文件预览<br><br>
 测试双击可选中<br>
 ![](https://segmentfault.com/img/bVRE7m?w=757&h=227)<br><br>
 **Atom编辑器在哪里设置打开默认的浏览器**<br>
-在设置Settings=>install里，搜索open-in-browser进行安装<br>
-在Atom编辑器的html页面中，按快捷键Ctrl+Shift+P 调出全局搜索面板，按快捷键Ctrl+Shift+Q，或者输入o选择下图第3个，就可用默认浏览器打开html页面<br>
-![](https://m.qpic.cn/psc?/V120flX00zHgB1/9XwfBMWIaa5Dh0kEemxh*FYDwJLYoxvQiXy*2D1rYjgBzKGk*c80qUnNEFzvxL5dNq1e9*WxnHwf.HSqZ7vIoQ!!/b&bo=qgKrAQAAAAADByA!&rf=viewer_4)<br>
+在设置Settings=>install里，搜索open-in-browser进行安装；<br>
+在Atom编辑器的html页面中，按Ctrl+Shift+P 调出全局搜索面板，再按Ctrl+Shift+Q，或者输入o选择下图第3个，就可用默认浏览器打开html页面了。<br>
+![](https://m.qpic.cn/psc?/V120flX00zHgB1/9XwfBMWIaa5Dh0kEemxh*FYDwJLYoxvQiXy*2D1rYjgBzKGk*c80qUnNEFzvxL5dNq1e9*WxnHwf.HSqZ7vIoQ!!/b&bo=qgKrAQAAAAADByA!&rf=viewer_4)<br><br>
 markdown-preview-enhanced — Atom预览markdown插件：<br>
 在atom中，先从file进入settings,选择install，搜索markdown-preview-enhanced，点击下载；<br>
 选择packages，搜索markdown-preview，禁用它；<br>
