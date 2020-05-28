@@ -87,8 +87,20 @@ ctrl+, => Settings，失效：<br>
 'body':
      'ctrl-,':'unset!'
 ```
-unset! - 取消绑定的参数
-
+unset! - 取消绑定的参数<br><br>
+修改Atom快捷键<br>
+参考网站：[Atom入门（二）-修改Atom快捷键](https://blog.csdn.net/panshaoling/article/details/79790982)<br>
+使用Atom时常会发生快捷键冲突，有些插件需要修改atom默认快捷键<br>
+File=>settings=>Keybingings=>Open Config Folder<br>
+![](https://img-blog.csdn.net/2018040215044348?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1BhbnNoYW9saW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)<br><br>
+打开keymap.cson<br>
+![](https://img-blog.csdn.net/20180402150635781?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1BhbnNoYW9saW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)<br><br>
+注：也可以在'your keymap file'中，直接打开keymap.cson
+选个自己适应的快捷键写进去。例如：<br>
+```
+'atom-text-editor':
+'ctrl-F12':'atom-html-preview:toggle'
+```
 
 ## 4.快捷键    
 <table><thead><tr><th align="center">英文</th>
