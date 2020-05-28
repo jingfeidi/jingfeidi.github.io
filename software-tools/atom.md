@@ -88,8 +88,10 @@ ctrl+, => Settings，失效：<br>
      'ctrl-,':'unset!'
 ```
 unset! - 取消绑定的参数<br><br>
-修改Atom快捷键<br>
-参考网站：[Atom入门（二）-修改Atom快捷键](https://blog.csdn.net/panshaoling/article/details/79790982)<br>
+修改Atom快捷键（atom 快捷键设置）<br>
+参考网站：<br>
+[Atom入门（二）-修改Atom快捷键](https://blog.csdn.net/panshaoling/article/details/79790982)<br>
+[atom 快捷键设置教程](https://jingyan.baidu.com/article/1709ad8077f8b04634c4f022.html)<br>
 使用Atom时常会发生快捷键冲突，有些插件需要修改atom默认快捷键<br>
 File=>settings=>Keybingings=>Open Config Folder<br>
 ![](https://img-blog.csdn.net/2018040215044348?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1BhbnNoYW9saW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)<br><br>
@@ -100,6 +102,15 @@ File=>settings=>Keybingings=>Open Config Folder<br>
 ```
 'atom-text-editor':
 'ctrl-F12':'atom-html-preview:toggle'
+```
+备注：<br>
+【KeyBindings】键绑定会显示出当前快捷键的设置<br>
+按键绑定 = 快捷键(Keystroke) + 执行命令(Command) + 来源(Source) + 选择器(Selector)<br><br>
+点击【your keymap file】蓝色字体，打开快捷键设置界面<br>
+在keymap.cson中写快捷键设置
+```
+'atom-text-editor':   'enter': 'editor:newline'
+atom-text-editor 是触发这个快捷键的区域，enter 是按键，editor:newline 是要触发的命令
 ```
 
 ## 4.快捷键    
