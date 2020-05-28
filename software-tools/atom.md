@@ -11,7 +11,7 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
  Atom 使用教程： <br>
  软件基础 https://wiki.jikexueyuan.com/project/atom/basis.html<br>
  插件主题推荐 https://wiki.jikexueyuan.com/project/atom/plug-in.html<br>
- atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
+ atom的插件必备：<br> https://www.jianshu.com/p/b779e2e5e3ef<br><br>
  **启动界面 介绍**<br>
   **菜单栏-分为六大块:**<br>
     File — 文件的保存打开,项目的保存打开,最后一次的项目加载,关闭及设置中心, 以及用户自定义的配置(配置文件,初始化脚本,样式风格,代码片段,快捷键配置文件)等<br>
@@ -35,7 +35,7 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
 2.atom-beautify — 代码格式一键美化<br>
 3.autoprefixer — 自动为 CSS 属性添加特定的前缀<br>
 4.color-picker — 取色器,在编辑器里面挑选颜色<br>
-5.linter — 代码校验工具(必备),默认可以识别多门语言的错误,但是不细致，属于主插件， 可以针对性的安装更细致的检查插件(下面是前端可能用到的)<br>
+5.linter — 代码校验工具(必备)<br>
   linter-jshint, for JavaScript and JSON, using jshint<br><br>
   linter-coffeelint, for CoffeeScript, using coffeelint<br>
   linter-tslint, for Typescript, using tslint<br>
@@ -47,12 +47,12 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
   linter-stylint, for Stylus, using stylint<br>
   linter-stylus, for Stylus, using stylus<br><br>
 6.autocomplete-xxx — 自动补全插件<br>
-  autocomplete-python — 你懂得，更加细致<br>
   autocomplete-paths — 路径补全，填写路径的时候有提示<br>
   autocomplete-html — 你懂得，更加细致<br>
-  autocomplete-bibtex — Github 的 markdown 语法<br>
-  autocomplete-snippets — 如名字<br>
   autocomplete-css — 你懂得，更加细致<br>
+  autocomplete-snippets — 如名字<br>
+  autocomplete-python — 你懂得，更加细致<br>
+  autocomplete-bibtex — Github 的 markdown 语法<br>
   less-autocompile — 实时编译<br>
   docblockr — 注释插件，非常的实用<br><br>
 
