@@ -1,7 +1,7 @@
 # 基础问题解决方案
 小技巧积累
 ## inline-block水平呈现的元素之间，换行显示或者空格分隔的情况下会有间距
-**示例1：**<br>
+**示例：**<br>
 参考网站：[li标签设置display:inline-block后产生的间距](https://www.cnblogs.com/qingjing/p/6579730.html)<br>
 个人摘录小结：（非商用）<br>
 给li标签添加diaplay:inline-block属性后，li标签并排显示后之间会产生3px的间距。<br>
@@ -71,4 +71,9 @@ li{
     -webkit-text-size-adjust:none;
 }
 ```
+
+img标签和span标签之间产生的间距：<br>
+解决方法同上。img标签和span标签写在一行；使用html注释；......<br><br>
+备注：html压缩后的代码不会出现间距问题<br>
+
 
