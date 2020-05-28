@@ -61,6 +61,12 @@ Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
 ## 3.tips
 Ctrl + Shift + P — 全局搜索面板<br>
 Ctrl + Shift + M — .md文件预览<br>
+在atom编辑器中如何全选带有连词符的单词：<br>
+在设置Settings里面,non word characters，删掉"-"<br>
+![](https://segmentfault.com/img/bVRE63?w=804&h=443)<br>
+![](https://segmentfault.com/img/bVRE7h?w=805&h=559)<br>
+测试双击可选中<br>
+![](https://segmentfault.com/img/bVRE7m?w=757&h=227)<br><br>
 markdown-preview-enhanced — Atom预览markdown插件：<br>
 在atom中，先从file进入settings,选择install，搜索markdown-preview-enhanced，点击下载；<br>
 选择packages，搜索markdown-preview，禁用它；<br>
