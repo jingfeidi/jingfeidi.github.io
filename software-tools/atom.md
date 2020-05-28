@@ -9,8 +9,8 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
 
 ## 2.插件/使用
  Atom 使用教程： 软件基础 https://wiki.jikexueyuan.com/project/atom/basis.html<br><br>
- 启动界面 介绍<br>
-  菜单栏-分为六大块:<br>
+ **启动界面 介绍**<br>
+  **菜单栏-分为六大块:**<br>
     File — 文件的保存打开,项目的保存打开,最后一次的项目加载,关闭及设置中心, 以及用户自定义的配置(配置文件,初始化脚本,样式风格,代码片段,快捷键配置文件)等<br>
     Edit — 文件编辑的操作,文件编码格式,及行跳转等<br>
     View — 重载页面,全屏,字体大小的缩放等<br>
@@ -18,7 +18,7 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
     Package — 包,就是插件列表的集合点<br>
     Help — 帮助文档,软件更新,协议等<br><br>
     
-设置中心 File=>Settings<br>
+**设置中心 File=>Settings**<br>
   左边侧栏-自上而下分为六大部分<br>
     Settings — 全局设置,可以设置文件的编码,菜单栏是否显示,忽略文件,文档缩进,字体大小,项目主目录等,这个比 sublime text 人性化,简洁明了的配置<br>
     Keybindings — 快捷键配置,默认快捷键都汇总于此了,很方便查询对应的快捷键的功能,也方便修改…人性化<br>
@@ -134,8 +134,8 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
   <td align="left">Ctrl + |Sublime的Ctrl+K,+B这里也可以生效</td>
   <td align="center"></td>
 </tr><tr><td align="center">Toggle Commadn palette</td>
-  <td align="center" style="color:red;">全局搜索面板</td>
-  <td align="left" style="color:red;">Ctrl + Shift + P</td>
+  <td align="center">全局搜索面板</td>
+  <td align="left">Ctrl + Shift + P</td>
   <td align="center">和Sublime的大同小异</td>
 </tr><tr><td align="center">Select Line</td>
   <td align="center">选定一行</td>
