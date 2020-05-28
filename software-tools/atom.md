@@ -60,7 +60,13 @@ Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
 
 ## 3.tips
 Ctrl + Shift + P — 全局搜索面板<br>
-Ctrl + Shift + M — .md文件预览<br><br>
+Ctrl + Shift + M — .md文件预览<br>
+markdown-preview-enhanced — Atom预览markdown插件：<br>
+在atom中，先从file进入settings,选择install，搜索markdown-preview-enhanced，点击下载；<br>
+选择packages，搜索markdown-preview，禁用它；<br>
+在markdown-preview-enhanced下载完成后，enable（启用它）；<br>
+导出pdf文件的方法：在atom中，先从file进入settings,选择install，搜索markdown-pdf，点击下载；<br><br>
+
 ## 4.快捷键    
 <table><thead><tr><th align="center">英文</th>
   <th align="center">中文</th>
