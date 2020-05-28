@@ -12,7 +12,7 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
  软件基础 https://wiki.jikexueyuan.com/project/atom/basis.html<br>
  插件主题推荐 https://wiki.jikexueyuan.com/project/atom/plug-in.html<br><br>
  * Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
- **启动界面 介绍**<br>
+**启动界面 介绍**<br>
   **菜单栏-分为六大块:**<br>
     File — 文件的保存打开,项目的保存打开,最后一次的项目加载,关闭及设置中心, 以及用户自定义的配置(配置文件,初始化脚本,样式风格,代码片段,快捷键配置文件)等<br>
     Edit — 文件编辑的操作,文件编码格式,及行跳转等<br>
@@ -37,11 +37,11 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
 3.autoprefixer — 自动为 CSS 属性添加特定的前缀<br>
 4.color-picker — 取色器,在编辑器里面挑选颜色<br>
 5.linter — 代码校验工具(必备)<br>
-  linter-jshint, for JavaScript and JSON, using jshint<br>
-  linter-coffeelint, for CoffeeScript, using coffeelint<br>
-  linter-tslint, for Typescript, using tslint<br>
-  linter-php, for PHP using php -l<br>
-  linter-pylint, for Python, using pylint<br>
+&nbsp;linter-jshint, for JavaScript and JSON, using jshint<br>
+&nbsp;linter-coffeelint, for CoffeeScript, using coffeelint<br>
+&nbsp;linter-tslint, for Typescript, using tslint<br>
+&nbsp;linter-php, for PHP using php -l<br>
+&nbsp;linter-pylint, for Python, using pylint<br>
   linter-scss-lint, for SASS/SCSS, using scss-lint<br>
   linter-less, for LESS, using less<br>
   linter-csslint, for CSS, using csslint<br>
