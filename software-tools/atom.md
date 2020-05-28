@@ -88,10 +88,10 @@ ctrl+, => Settings，失效：<br>
      'ctrl-,':'unset!'
 ```
 unset! - 取消绑定的参数<br><br>
-修改Atom快捷键（atom 快捷键设置）<br>
+**修改Atom快捷键（atom 快捷键设置）**<br>
 参考网站：<br>
 [Atom入门（二）-修改Atom快捷键](https://blog.csdn.net/panshaoling/article/details/79790982)<br>
-[atom 快捷键设置教程](https://jingyan.baidu.com/article/1709ad8077f8b04634c4f022.html)<br>
+[atom 快捷键设置教程](https://jingyan.baidu.com/article/1709ad8077f8b04634c4f022.html)<br><br>
 使用Atom时常会发生快捷键冲突，有些插件需要修改atom默认快捷键<br>
 File=>settings=>Keybingings=>Open Config Folder<br>
 ![](https://img-blog.csdn.net/2018040215044348?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1BhbnNoYW9saW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)<br><br>
