@@ -61,6 +61,8 @@ Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
 ## 3.tips
 Ctrl + Shift + P — 全局搜索面板<br>
 Ctrl + Shift + M — .md文件预览<br><br>
+Ctrl + F — 搜索<br>
+Ctrl + Shift + V — 搜索框内容粘贴<br><br>
 
 **在Atom编辑器中如何全选带有连词符的单词：**<br>
 在设置Settings里面,non word characters，删掉"-"<br>
@@ -78,6 +80,15 @@ Ctrl + Shift + M — .md文件预览<br><br>
 在markdown-preview-enhanced下载完成后，enable（启用它）；<br>
 导出pdf文件的方法：在atom中，先从file进入settings,选择install，搜索markdown-pdf，点击下载；<br><br>
 **Atom 快捷键冲突，失效问题**<br><br>
+ctrl+, => Settings，失效：<br>
+在Keybindings中搜索'ctrl+,'，<br><br>
+**复制冲突的Selector，取消绑定**<br>
+```
+'body':
+     'ctrl-,':'unset!'
+```
+unset! - 取消绑定的参数
+
 
 ## 4.快捷键    
 <table><thead><tr><th align="center">英文</th>
