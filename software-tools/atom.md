@@ -31,29 +31,29 @@ Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
     Install — 目前分为两栏,自上而下,第一部分是搜索(可以搜索社区的插件),下面一部分会展示目前比较流行的插件(可以直接点击下载使用)<br>
     Open Config Folder — 这一块算不上鼠标操作控制,完全是软件的配置文件集合目录<br><br>
 **前端插件推荐**<br>
-参考：[Atom使用教程-插件主题推荐](https://wiki.jikexueyuan.com/project/atom/plug-in.html)&nbsp;&nbsp;[Atom的插件必备](https://www.jianshu.com/p/b779e2e5e3ef)&nbsp;不一一列举<br><br>
+参考：[Atom使用教程-插件主题推荐](https://wiki.jikexueyuan.com/project/atom/plug-in.html)&nbsp;&nbsp;[Atom的插件必备](https://www.jianshu.com/p/b779e2e5e3ef)&nbsp;不一 一列举<br><br>
 1.emmet — 加快web开发速度，提供snippet(代码片段)、abbreviation expand(简写展开)功能。<br>
 2.atom-beautify — 代码格式一键美化<br>
 3.autoprefixer — 自动为 CSS 属性添加特定的前缀<br>
 4.color-picker — 取色器,在编辑器里面挑选颜色<br>
 5.linter — 代码校验工具(必备)<br>
-&nbsp;linter-jshint, for JavaScript and JSON, using jshint<br>
-&nbsp;linter-coffeelint, for CoffeeScript, using coffeelint<br>
-&nbsp;linter-tslint, for Typescript, using tslint<br>
-&nbsp;linter-php, for PHP using php -l<br>
-&nbsp;linter-pylint, for Python, using pylint<br>
-  linter-scss-lint, for SASS/SCSS, using scss-lint<br>
-  linter-less, for LESS, using less<br>
-  linter-csslint, for CSS, using csslint<br>
-  linter-stylint, for Stylus, using stylint<br>
-  linter-stylus, for Stylus, using stylus<br><br>
+&nbsp;&nbsp;linter-jshint, for JavaScript and JSON, using jshint<br>
+&nbsp;&nbsp;linter-coffeelint, for CoffeeScript, using coffeelint<br>
+&nbsp;&nbsp;linter-tslint, for Typescript, using tslint<br>
+&nbsp;&nbsp;linter-php, for PHP using php -l<br>
+&nbsp;&nbsp;linter-pylint, for Python, using pylint<br>
+&nbsp;&nbsp;  linter-scss-lint, for SASS/SCSS, using scss-lint<br>
+&nbsp;&nbsp;  linter-less, for LESS, using less<br>
+&nbsp;&nbsp;  linter-csslint, for CSS, using csslint<br>
+&nbsp;&nbsp;  linter-stylint, for Stylus, using stylint<br>
+&nbsp;&nbsp;  linter-stylus, for Stylus, using stylus<br>
 6.autocomplete-xxx — 自动补全插件<br>
-  autocomplete-paths — 路径补全，填写路径的时候有提示<br>
-  autocomplete-html — html代码自动补全<br>
-  autocomplete-css — css代码自动补全<br>
-  autocomplete-snippets — 提示常用代码<br>
-  autocomplete-python — python代码自动补全<br>
-  autocomplete-bibtex — Github 的 markdown 语法<br>
+&nbsp;&nbsp;  autocomplete-paths — 路径补全，填写路径的时候有提示<br>
+&nbsp;&nbsp;  autocomplete-html — html代码自动补全<br>
+&nbsp;&nbsp;  autocomplete-css — css代码自动补全<br>
+&nbsp;&nbsp;  autocomplete-snippets — 提示常用代码<br>
+&nbsp;&nbsp;  autocomplete-python — python代码自动补全<br>
+&nbsp;&nbsp;  autocomplete-bibtex — Github 的 markdown 语法<br>
 7.less-autocompile — 实时编译，less文件编译为css文件<br>
   docblockr — 注释插件<br><br>
 
