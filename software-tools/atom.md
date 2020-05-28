@@ -97,13 +97,13 @@ File=>settings=>Keybingings=>Open Config Folder<br>
 ![](https://img-blog.csdn.net/2018040215044348?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1BhbnNoYW9saW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)<br><br>
 打开keymap.cson<br>
 ![](https://img-blog.csdn.net/20180402150635781?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1BhbnNoYW9saW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)<br><br>
-注：也可以在'your keymap file'中，直接打开keymap.cson
+备注1：也可以在'your keymap file'中，直接打开keymap.cson
 选个自己适应的快捷键写进去。例如：<br>
 ```
 'atom-text-editor':
 'ctrl-F12':'atom-html-preview:toggle'
 ```
-备注：<br>
+备注2：<br>
 【KeyBindings】键绑定会显示出当前快捷键的设置<br>
 按键绑定 = 快捷键(Keystroke) + 执行命令(Command) + 来源(Source) + 选择器(Selector)<br><br>
 点击【your keymap file】蓝色字体，打开快捷键设置界面<br>
