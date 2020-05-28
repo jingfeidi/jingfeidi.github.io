@@ -8,7 +8,10 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
 参考网站 [ATOM 编辑器安装使用](https://blog.csdn.net/qq_35275056/article/details/82598637)<br>
 
 ## 2.插件/使用
- Atom 使用教程： 软件基础 https://wiki.jikexueyuan.com/project/atom/basis.html<br><br>
+ Atom 使用教程： <br>
+ 软件基础 https://wiki.jikexueyuan.com/project/atom/basis.html<br>
+ 插件主题推荐 https://wiki.jikexueyuan.com/project/atom/plug-in.html<br>
+ atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
  **启动界面 介绍**<br>
   **菜单栏-分为六大块:**<br>
     File — 文件的保存打开,项目的保存打开,最后一次的项目加载,关闭及设置中心, 以及用户自定义的配置(配置文件,初始化脚本,样式风格,代码片段,快捷键配置文件)等<br>
@@ -27,6 +30,31 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
     Updates — 目前功能只有一个,查询社区包的状态,随时随地的更新已安装的插件,Atom 软件的更新在 HELP 里面<br>
     Install — 目前分为两栏,自上而下,第一部分是搜索(可以搜索社区的插件),下面一部分会展示目前比较流行的插件(可以直接点击下载使用)<br>
     Open Config Folder — 这一块算不上鼠标操作控制,完全是软件的配置文件集合目录<br><br>
+**前端必备插件篇**<br>
+1.emmet — 加快web开发速度，提供snippet(代码片段)、abbreviation expand(简写展开)功能。<br>
+2.atom-beautify — 代码格式一键美化<br>
+3.autoprefixer — 自动为 CSS 属性添加特定的前缀<br>
+4.color-picker — 取色器,在编辑器里面挑选颜色<br>
+5.linter — 代码校验工具(必备),默认可以识别多门语言的错误,但是不细致，属于主插件， 可以针对性的安装更细致的检查插件(下面是前端可能用到的)<br>
+  linter-jshint, for JavaScript and JSON, using jshint<br><br>
+  linter-coffeelint, for CoffeeScript, using coffeelint<br>
+  linter-tslint, for Typescript, using tslint<br>
+  linter-php, for PHP using php -l<br>
+  linter-pylint, for Python, using pylint<br>
+  linter-scss-lint, for SASS/SCSS, using scss-lint<br>
+  linter-less, for LESS, using less<br>
+  linter-csslint, for CSS, using csslint<br>
+  linter-stylint, for Stylus, using stylint<br>
+  linter-stylus, for Stylus, using stylus<br><br>
+6.autocomplete-xxx — 自动补全插件<br>
+  autocomplete-python — 你懂得，更加细致<br>
+  autocomplete-paths — 路径补全，填写路径的时候有提示<br>
+  autocomplete-html — 你懂得，更加细致<br>
+  autocomplete-bibtex — Github 的 markdown 语法<br>
+  autocomplete-snippets — 如名字<br>
+  autocomplete-css — 你懂得，更加细致<br>
+  less-autocompile — 实时编译<br>
+  docblockr — 注释插件，非常的实用<br><br>
 
 ## 3.快捷键    
 <table><thead><tr><th align="center">英文</th>
