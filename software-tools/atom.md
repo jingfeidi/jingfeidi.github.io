@@ -8,10 +8,10 @@ https://github.com/atom/atom/releases/tag/v1.47.0<br>
 参考网站 [ATOM 编辑器安装使用](https://blog.csdn.net/qq_35275056/article/details/82598637)<br>
 
 ## 2.插件/使用
- * Atom 使用教程： <br>
+Atom 使用教程： <br>
  软件基础 https://wiki.jikexueyuan.com/project/atom/basis.html<br>
  插件主题推荐 https://wiki.jikexueyuan.com/project/atom/plug-in.html<br><br>
- * Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
+Atom的插件必备： https://www.jianshu.com/p/b779e2e5e3ef<br><br>
 **启动界面 介绍**<br>
   **菜单栏-分为六大块:**<br>
     File — 文件的保存打开,项目的保存打开,最后一次的项目加载,关闭及设置中心, 以及用户自定义的配置(配置文件,初始化脚本,样式风格,代码片段,快捷键配置文件)等<br>
