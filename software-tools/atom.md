@@ -73,7 +73,10 @@ Ctrl + Shift + V — 搜索框内容粘贴<br><br>
 **Atom编辑器在哪里设置打开默认的浏览器**<br>
 在设置Settings=>install里，搜索open-in-browser进行安装；<br>
 在Atom编辑器的html页面中，直接按Ctrl+Shift+Q，（或者按Ctrl+Shift+P 调出全局搜索面板，输入o选择下图第3个），就可用默认浏览器打开html页面了。<br>
-![](https://m.qpic.cn/psc?/V120flX00zHgB1/9XwfBMWIaa5Dh0kEemxh*FYDwJLYoxvQiXy*2D1rYjgBzKGk*c80qUnNEFzvxL5dNq1e9*WxnHwf.HSqZ7vIoQ!!/b&bo=qgKrAQAAAAADByA!&rf=viewer_4)<br><br>
+![](https://m.qpic.cn/psc?/V120flX00zHgB1/9XwfBMWIaa5Dh0kEemxh*FYDwJLYoxvQiXy*2D1rYjgBzKGk*c80qUnNEFzvxL5dNq1e9*WxnHwf.HSqZ7vIoQ!!/b&bo=qgKrAQAAAAADByA!&rf=viewer_4)<br>
+**Atom编辑器取消欢迎页面**<br>
+在设置Settings=>Packages里，搜索welcome，将其禁用
+![](https://m.qpic.cn/psc?/V120flX00zHgB1/9XwfBMWIaa5Dh0kEemxh*LYgHE9K*eflcEVxtkLka05o2j9ehczLr*i5cfr4cukneykUYp5AX6A9ZYT6om5KVw!!/b&bo=ygPOAQAAAAARBzY!&rf=viewer_4)<br><br>
 **markdown-preview-enhanced — Atom预览markdown插件：**<br>
 在atom中，先从file进入settings,选择install，搜索markdown-preview-enhanced，点击下载；<br>
 选择packages，搜索markdown-preview，禁用它；<br>
