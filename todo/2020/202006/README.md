@@ -4,4 +4,4 @@
 [竞品分析：快看漫画 VS 腾讯动漫 VS 哔哩哔哩漫画](http://www.woshipm.com/evaluating/3093365.html)<br>
 [99个互联网常用词汇，建议收藏“食用”](http://www.woshipm.com/zhichang/1743064.html)<br>
 [产品分析 | 快看漫画，Z时代“偏爱的”IP＋兴趣社区](http://www.woshipm.com/evaluating/3979987.html)<br>
-[]()<br><br>
+[漫画社交：看漫画也能发弹幕了？](http://www.woshipm.com/evaluating/3288198.html)<br><br>
