@@ -7,10 +7,17 @@
 [漫画社交：看漫画也能发弹幕了？](http://www.woshipm.com/evaluating/3288198.html)<br>
 [中国互联网漫画市场年度分析2020](https://qianfan.analysys.cn/refine/view/analyseDetail/analyseDetail.html?id=89)<br>
 
-
-### 骨朵相关网站
+**骨朵相关网站**
 [骨朵传媒](http://www.guduomedia.com/)<br>
 [骨朵H5页面：骨朵热度指数排行榜](http://d.guduodata.com/)<br>
 [骨朵数据](http://data.guduodata.com/)<br>
 [二次元文化百度百科](https://baike.baidu.com/item/acg/33795?fromtitle=%E4%BA%8C%E6%AC%A1%E5%85%83%E6%96%87%E5%8C%96&fromid=23736018&fr=aladdin)<br>
 [二次元百度百科](https://baike.baidu.com/item/%E4%BA%8C%E6%AC%A1%E5%85%83/85064?fr=aladdin)<br><br>
+
+[LoveLive!百度百科](https://baike.baidu.com/item/LoveLive%21/6278898?fr=aladdin)<br>
+日本的二次元偶像企划、鸨田アルミ作漫画、SUNRISE制作的电视动画
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
