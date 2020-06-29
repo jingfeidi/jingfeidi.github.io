@@ -15,9 +15,11 @@
 [二次元百度百科](https://baike.baidu.com/item/%E4%BA%8C%E6%AC%A1%E5%85%83/85064?fr=aladdin)<br><br>
 
 [LoveLive!百度百科](https://baike.baidu.com/item/LoveLive%21/6278898?fr=aladdin)<br>
-日本的二次元偶像企划、鸨田アルミ作漫画、SUNRISE制作的电视动画
+日本的二次元偶像企划、鸨田アルミ作漫画、SUNRISE制作的电视动画<br>
 [偶像梦幻祭百度百科](https://baike.baidu.com/item/%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD/17536160?fr=aladdin)<br>
-[]()<br>
+乐元素公司研发手游、David Production改编的电视动画、Happy Elements原作，日日日著作的轻小说<br>
+[A3!满开剧团百度百科](https://baike.baidu.com/item/A3%21%E6%BB%A1%E5%BC%80%E5%89%A7%E5%9B%A2/22115080)<br>
+游戏、动画<br>
 []()<br>
 []()<br>
 []()<br>
