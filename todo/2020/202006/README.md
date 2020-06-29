@@ -10,6 +10,6 @@
 ## 骨朵相关网站
 [骨朵传媒](http://www.guduomedia.com/)<br>
 [骨朵H5页面：骨朵热度指数排行榜](http://d.guduodata.com/)<br>
-[]()<br>
+[骨朵数据](http://data.guduodata.com/)<br>
 []()<br>
 []()<br><br>
