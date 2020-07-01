@@ -11,6 +11,11 @@
 [骨朵传媒](http://www.guduomedia.com/)<br>
 [骨朵H5页面：骨朵热度指数排行榜](http://d.guduodata.com/)<br>
 [骨朵数据](http://data.guduodata.com/)<br><br>
+
+[萝卜投研](https://robo.datayes.com/)<br>
+[10万+ 手把手教你——系统构建投研体系（资料工具篇）](https://baijiahao.baidu.com/s?id=1666660666207528909&wfr=spider&for=pc)<br>
+[通联数据股份公司百度百科](https://baike.baidu.com/item/%E9%80%9A%E8%81%94%E6%95%B0%E6%8D%AE%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8/15250099?fr=aladdin)<br>
+
 [二次元文化百度百科](https://baike.baidu.com/item/acg/33795?fromtitle=%E4%BA%8C%E6%AC%A1%E5%85%83%E6%96%87%E5%8C%96&fromid=23736018&fr=aladdin)<br>
 [二次元百度百科](https://baike.baidu.com/item/%E4%BA%8C%E6%AC%A1%E5%85%83/85064?fr=aladdin)<br><br>
 [LoveLive!百度百科](https://baike.baidu.com/item/LoveLive%21/6278898?fr=aladdin)<br>
@@ -19,6 +24,6 @@
 乐元素公司研发手游、David Production改编的电视动画、Happy Elements原作，日日日著作的轻小说<br>
 [A3!满开剧团百度百科](https://baike.baidu.com/item/A3%21%E6%BB%A1%E5%BC%80%E5%89%A7%E5%9B%A2/22115080)<br>
 游戏、动画<br>
-[]()<br>
+[萝卜投研]()<br>
 []()<br>
 []()<br>
