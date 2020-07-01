@@ -7,7 +7,7 @@
 [漫画社交：看漫画也能发弹幕了？](http://www.woshipm.com/evaluating/3288198.html)<br>
 [中国互联网漫画市场年度分析2020](https://qianfan.analysys.cn/refine/view/analyseDetail/analyseDetail.html?id=89)<br>
 
-[萝卜投研](https://robo.datayes.com/)<br>百度百科
+[萝卜投研](https://robo.datayes.com/)<br>
 [10万+ 手把手教你——系统构建投研体系（资料工具篇）](https://baijiahao.baidu.com/s?id=1666660666207528909&wfr=spider&for=pc)<br>
 [通联数据股份公司百度百科](https://baike.baidu.com/item/%E9%80%9A%E8%81%94%E6%95%B0%E6%8D%AE%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8/15250099?fr=aladdin)<br>
 [IT桔子](https://www.itjuzi.com/)<br>
@@ -20,15 +20,17 @@
 [企查查百度百科](https://baike.baidu.com/item/%E4%BC%81%E6%9F%A5%E6%9F%A5/19976267?fr=aladdin)<br>
 [理杏仁](https://www.lixinger.com/)<br>
 [北京乾谦慧科技有限公司](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%B9%BE%E8%B0%A6%E6%85%A7%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)<br>
+[Wind](https://www.wind.com.cn/)<br>
+[wind百度百科](https://baike.baidu.com/item/wind/952623)<br>
+[艾瑞咨询](https://www.iresearch.com.cn/)<br>
+[上海艾瑞市场咨询股份有限公司百度百科](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E8%89%BE%E7%91%9E%E5%B8%82%E5%9C%BA%E5%92%A8%E8%AF%A2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)<br>
+[艾瑞网](https://www.iresearch.cn/)<br>
+[艾瑞网百度百科](https://baike.baidu.com/item/%E8%89%BE%E7%91%9E%E7%BD%91)<br>
 []()<br>
-[理杏仁百度百科]()<br>
 []()<br>
 []()<br>
 []()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+百度百科
 **骨朵相关网站**<br>
 [骨朵传媒](http://www.guduomedia.com/)<br>
 [骨朵H5页面：骨朵热度指数排行榜](http://d.guduodata.com/)<br>
