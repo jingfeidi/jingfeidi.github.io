@@ -33,10 +33,10 @@
 [易观千帆](https://qianfan.analysys.cn/)<br>
 [资本邦](http://www.chinaipo.com/)<br>
 [资本邦百度百科](https://baike.baidu.com/item/%E8%B5%84%E6%9C%AC%E9%82%A6)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[ifenxi](https://ifenxi.com/)<br>
+[投中网](https://www.chinaventure.com.cn/)<br>
+[投资界](https://www.pedaily.cn/)<br>
+[投资界百度百科](https://baike.baidu.com/item/%E6%8A%95%E8%B5%84%E7%95%8C)<br>
 []()<br>
 []()<br>
 []()<br>
