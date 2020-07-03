@@ -63,7 +63,9 @@ Ctrl + Shift + P — 全局搜索面板<br>
 Ctrl + Shift + M — .md文件预览<br><br>
 Ctrl + F — 搜索<br>
 Ctrl + Shift + V — 搜索框内容粘贴<br><br>
-
+**Atom怎样显示代码对齐线**<br>
+settings -> Editor -> Show Indent Guide<br>
+勾选 Show Indent Guide<br><br>
 **在Atom编辑器中如何全选带有连词符的单词：**<br>
 在设置Settings里面,non word characters，删掉"-"<br>
 ![](https://segmentfault.com/img/bVRE63?w=804&h=443)<br>
