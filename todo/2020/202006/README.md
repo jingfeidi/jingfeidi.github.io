@@ -6,6 +6,11 @@
 [产品分析 | 快看漫画，Z时代“偏爱的”IP＋兴趣社区](http://www.woshipm.com/evaluating/3979987.html)<br>
 [漫画社交：看漫画也能发弹幕了？](http://www.woshipm.com/evaluating/3288198.html)<br>
 [中国互联网漫画市场年度分析2020](https://qianfan.analysys.cn/refine/view/analyseDetail/analyseDetail.html?id=89)<br>
+[9个关键词背后，藏着日本动漫产业50年简史](http://www.woshipm.com/it/1625691.html)<br>
+[二次元动漫行业（虚拟形象）调研分析报告](http://www.woshipm.com/evaluating/1403454.html)<br>
+[]()<br>
+[]()<br>
+[]()<br>
 
 [萝卜投研](https://robo.datayes.com/)<br>
 [10万+ 手把手教你——系统构建投研体系（资料工具篇）](https://baijiahao.baidu.com/s?id=1666660666207528909&wfr=spider&for=pc)<br>
