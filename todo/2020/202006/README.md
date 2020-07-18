@@ -8,9 +8,9 @@
 [中国互联网漫画市场年度分析2020](https://qianfan.analysys.cn/refine/view/analyseDetail/analyseDetail.html?id=89)<br>
 [9个关键词背后，藏着日本动漫产业50年简史](http://www.woshipm.com/it/1625691.html)<br>
 [二次元动漫行业（虚拟形象）调研分析报告](http://www.woshipm.com/evaluating/1403454.html)<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[kakuyomu](https://kakuyomu.jp/)<br>
+[ComicWalker](https://comic-walker.com/)<br>
+[comico](https://www.comico.jp/)<br>
 
 [萝卜投研](https://robo.datayes.com/)<br>
 [10万+ 手把手教你——系统构建投研体系（资料工具篇）](https://baijiahao.baidu.com/s?id=1666660666207528909&wfr=spider&for=pc)<br>
