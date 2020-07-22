@@ -8,6 +8,7 @@
 [中国互联网漫画市场年度分析2020](https://qianfan.analysys.cn/refine/view/analyseDetail/analyseDetail.html?id=89)<br>
 [9个关键词背后，藏着日本动漫产业50年简史](http://www.woshipm.com/it/1625691.html)<br>
 [二次元动漫行业（虚拟形象）调研分析报告](http://www.woshipm.com/evaluating/1403454.html)<br>
+[漫画+营销：画出一个内容大风口](http://www.woshipm.com/marketing/2826358.html/)<br>
 [kakuyomu](https://kakuyomu.jp/)<br>
 [ComicWalker](https://comic-walker.com/)<br>
 [comico](https://www.comico.jp/)<br>
