@@ -1,79 +1,23 @@
-# 基础问题解决方案
-小技巧积累
-## inline-block水平呈现的元素之间，换行显示或者空格分隔的情况下会有间距
+# 程序员心态和理论
+
+## 浏览器函数
 **示例：**<br>
-参考网站：[li标签设置display:inline-block后产生的间距](https://www.cnblogs.com/qingjing/p/6579730.html)<br>
-个人摘录小结：（非商用）<br>
-给li标签添加diaplay:inline-block属性后，li标签并排显示后之间会产生3px的间距。<br>
-![](https://images2015.cnblogs.com/blog/1122681/201703/1122681-20170319110439276-1122505397.png)
+   alert() 弹出警示框
+   prompt() 弹出提示框(输入框)，需要使用变量保存输入的值；值的类型是字符串型
 ```
-<style>
-    ul,li{
-        margin: 0;
-        padding: 0;
+   练习：两次弹出提示框，使用变量保存后，计算两个数字相加的和，并将和使用警示框弹出
+    //弹出两次提示框，保存到两个变量中
+    var num1=prompt('input first number');
+    var num2=prompt('input second number');
+    console.log(num1+num2);//12 字符串拼接
 
-    }
-    li{
-        display: inline-block;
-        width: 50px;
-        height:50px;
-        background: black;
-        list-style:none;
-    }
-</style>
-<body>
-    <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
-</body>
-```
-解决方法：<br>
-1.li标签不换行；
-```
-<ul>
-    <li></li><li></li><li></li><li></li>
- </ul>
-```
-2.使用HTML注释
-```
-<ul>
-    <li></li><!--
-    --><li></li><!--
-    --><li></li><!--
-    --><li></li>
-</ul>
-```
-3.li标签左间距设置-3px；（不推荐）<br>
-```
-li{
-    display: inline-block;
-    width: 50px;
-    height:50px;
-    background: black;
-    list-style:none;
-    margin:-3px;<!--设置的间距-->
-}
-
-```
-4.使用font-size:0（不推荐）<br>
-```
-<ul class="space">
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-.space {
-    font-size: 0;
-    -webkit-text-size-adjust:none;
-}
+    //把输入的值转为数值型
+    num1=parseFloat(num1);
+    num2=parseFloat(num2);
+    console.log(num1+num2);//3 加法运算
+    //使用警示框弹出和
+    alert(num1+num2);
 ```
 
-img标签和span标签之间产生的间距：<br>
-解决方法同上。img标签和span标签写在一行；使用html注释；......<br><br>
-备注：html压缩后的代码不会出现间距问题<br>
 
 
