@@ -13,3 +13,5 @@
 ```
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 ```
+## 小工具
+[睡眠质量测试sleep cycle 的使用](https://jingyan.baidu.com/article/2fb0ba40a3692a00f2ec5ff6.html)<br>
