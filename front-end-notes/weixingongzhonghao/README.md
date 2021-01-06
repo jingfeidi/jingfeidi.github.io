@@ -8,8 +8,8 @@
 [第一个 React 项目做完了，谈谈自己对 hooks 的思考](https://mp.weixin.qq.com/s/kMLeg5KLFhXFZnjOF0fhvQ)<br>
 [设计灵感：12 组书籍阅读 APP 界面设计](https://mp.weixin.qq.com/s/EL0bPDje8M466kL4U6HvVQ)<br>
 [一次关于 Vue 的自我模拟面试](https://mp.weixin.qq.com/s/OIyV5QC4HsTvZtabblLvUw)<br>
-[]()<br>
-[]()<br>
+[如何发布 npm 包](https://mp.weixin.qq.com/s/4eE5kHicRK2mVcqEQSM4lg)<br>
+[设计灵感：12组银行金融类App界面设计](https://mp.weixin.qq.com/s/XRU1JnuhStOxMrYRqUcfhQ)<br>
 []()<br>
 []()<br>
 []()<br>
