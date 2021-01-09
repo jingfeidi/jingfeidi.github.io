@@ -13,8 +13,8 @@
 [如何开发一款 H5 小程序直播？](https://mp.weixin.qq.com/s/MxUjrVNtld63X701P_84Wg)<br>
 [「一次写过瘾」手写 Promise 全家桶 + Generator + async/await](https://mp.weixin.qq.com/s/b-4wgsYmTYYF0NxrnA8pIg)<br>
 [设计灵感：博客类 App 如何设计？](https://mp.weixin.qq.com/s/n_7SXJwrcyG9Q9qHzcf18A)<br>
-[]()<br>
-[]()<br>
+[一个 1 分钟就学会的 vue 小技巧（真的一看就会）](https://mp.weixin.qq.com/s/NAQ8J7ZhWFAC7xqUaxSPrQ)<br>
+[设计灵感 ：12 组证券理财数据图表网页界面设计](https://mp.weixin.qq.com/s/yO8-Ey6i6rN1eKejuMVCPQ)<br>
 []()<br>
 []()<br>
 []()<br>
