@@ -18,12 +18,12 @@
 [设计灵感：12 组医药 APP 界面设计](https://mp.weixin.qq.com/s/ThJlE1uCvL8UXvGlon9e2Q)<br>
 [从 5 个维度来讲 Vue 3 变化](https://mp.weixin.qq.com/s/EVCKH8n4YdTrEbuupDmA0g)<br>
 [如丝般顺滑！4 行代码就能创建一个数据流工具！](https://mp.weixin.qq.com/s/sixBGDsjI4GrWjh93DBP_w)<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[33 个提高前端工作效率的 VSCode 实用插件](https://mp.weixin.qq.com/s/8IMjdm1RfzT4DeVW1dOcOg)<br>
+[设计灵感：一组C4D在APP界面中的应用](https://mp.weixin.qq.com/s/7RS8pjMSLJ01IbEsHrY5hQ)<br>
+[速度提高几百倍，记一次数据结构在实际工作中的运用](https://mp.weixin.qq.com/s/DT0sLTpxd-Qy5NsWvO-dIQ)<br>
+[拯救你的年底 KPI：前端性能优化](https://mp.weixin.qq.com/s/vj9oRJYv8YGmjWy7lYY6XA)<br>
+[实现一个符合 Promise/A+规范的 Promise（typescript 版）](https://mp.weixin.qq.com/s/y6khP9WY1-vfSm0Hn3dvoA)<br>
+[如何利用 JavaScript 实现并发控制](https://mp.weixin.qq.com/s/JutrrNaSdxeMaP49ucWjzA)<br>
 []()<br>
 []()<br>
 []()<br>
