@@ -28,8 +28,8 @@
 [探寻 Redux useSelector 更新机制](https://mp.weixin.qq.com/s/RwNEEh-zEjMxGgi7r1dG7A)<br>
 [来一起造轮子：手写 Vue3 reactivity 模块](https://mp.weixin.qq.com/s/V2LLBvDaWhQ6xOP88NBEYA)<br>
 [实现一个 async/await （typescript 版）](https://mp.weixin.qq.com/s/gFSb0BYSbL7c5K4cCcgeow)<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://mp.weixin.qq.com/s/KaLjNOAOW7OY0TvMVL3q3g)<br>
+[node_modules 困境](https://mp.weixin.qq.com/s/u92k389qtoSfENT9BfOcOg)<br>
+[2.6 万 Star！Web 已进化，前端测试工具也该变了](https://mp.weixin.qq.com/s/Qtu5mHT8z5EHjMgS6VLCiA)<br>
 []()<br>
 
