@@ -1,9 +1,13 @@
 ## 前端大全
 
+***20210129***<br>
+[]()<br>
+[]()<br>
+[]()<br>
 ***20210128***<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[为了向女友炫耀！程序员魔改《合成大西瓜》：暴力吃瓜](https://mp.weixin.qq.com/s/EOJMOxH0tYEFgYHx9Wryhw)<br>
+[JavaScript两个快速调试的技巧](https://mp.weixin.qq.com/s/GcoQj_M9kI-RRgzbCqyMzQ)<br>
+[前端每日一题 #08](https://mp.weixin.qq.com/s/dvScvRcY_n0NLHDu6Vq_-w)<br>
 []()<br>
 ***20210127***<br>
 [Vue 在哪些方面比 React 做得更好？](https://mp.weixin.qq.com/s/MCJwNSwmzrT1KBZe9OXW3w)<br>
