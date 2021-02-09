@@ -11,11 +11,9 @@
 [这些 JS 中强大的操作符，总有几个你没听说过](https://mp.weixin.qq.com/s/otzIsgd-YkbinAfbtMD4Ow)<br>
 [前端每日一题 #19](https://mp.weixin.qq.com/s/d2hT_-jpBDwU6e8m_4ZKvw)<br>
 ***20210208***<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[TypeScript 中提升幸福感的 10 个高级技巧](https://mp.weixin.qq.com/s/Mzt6ZNaOmd0_YlvAYwwY0w)<br>
+[前端每日一题 #18](https://mp.weixin.qq.com/s/dhmdk7D44WlIgvCknWjOLA)<br>
+[2020年，在美国的前端工程师拿多少薪资？](https://mp.weixin.qq.com/s/KUvX11QOn7Xd6ZCcdGNEWg)<br>
 ***20210207***<br>
 []()<br>
 []()<br>
