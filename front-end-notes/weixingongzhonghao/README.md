@@ -10,8 +10,8 @@
 ***20210210***<br>
 [美团技术年货：1300+页电子书，覆盖前端、后台、数据、算法、顶会论文……](https://mp.weixin.qq.com/s/u5M5GGdp3ZHIeEKxbjJ-TA)<br>
 [2020年美团技术团队最受欢迎的16篇技术文章](https://mp.weixin.qq.com/s/P3DmRc3lGWAu4o7pXgHI_w)<br>
-[]()<br>
-[]()<br>
+[速度与压缩比如何兼得？压缩算法在构建部署中的优化](https://mp.weixin.qq.com/s/9kdeSj0RwUvlIi4oBEF_Wg)<br>
+[2020年美团技术团队最受欢迎的16篇技术文章](https://mp.weixin.qq.com/s/P3DmRc3lGWAu4o7pXgHI_w)<br>
 []()<br>
 ***20210209***<br>
 [基于原生 JS 构建超级玛丽游戏](https://mp.weixin.qq.com/s/5jEBUgLT6Y8pl0NMKdo-ng)<br>
