@@ -12,4 +12,6 @@
 6. 浏览器下载数据后解析 HTML 源文件，解析的过程中实现对页面的排版，解析完成后在浏览器中显示基础页面。
 7. 分析页面中的超链接并显示在当前页面，重复以上过程直至无超链接需要发送，完成全部显示。<br>
 <br>
-备注: TCP：传输控制协议（TCP，Transmission Control Protocol）是一种面向连接的、可靠的、基于字节流的传输层通信协议，由IETF的RFC 793定义。TCP旨在适应支持多网络应用的分层协议层次结构。[TCP百度百科](https://baike.baidu.com/item/TCP/33012?fr=aladdin)<br><br>
+备注: 
+TCP：传输控制协议（TCP，Transmission Control Protocol）是一种面向连接的、可靠的、基于字节流的传输层通信协议。TCP旨在适应支持多网络应用的分层协议层次结构。<br>
+[TCP百度百科](https://baike.baidu.com/item/TCP/33012?fr=aladdin)<br><br>
