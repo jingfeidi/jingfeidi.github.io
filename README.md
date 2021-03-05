@@ -1,11 +1,11 @@
 # jingfeidi.github.io
 个人博客
 ## front-end-performance-optimization
-前端性能优化
+[前端性能优化](https://github.com/jingfeidi/jingfeidi.github.io/tree/master/front-end-performance-optimization)
 ## interview
 [前端面试相关](https://github.com/jingfeidi/jingfeidi.github.io/tree/master/interview)
 ## front-end-notes
-前端笔记（知识点和问题）
+[前端笔记（知识点和问题）](https://github.com/jingfeidi/jingfeidi.github.io/tree/master/front-end-notes)
 ## git&github
 git&github操作技巧
 ## software-tools
