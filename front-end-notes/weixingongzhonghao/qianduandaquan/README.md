@@ -1,9 +1,13 @@
-# 前端大全     
+# 前端大全         
+***20210329***<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br> 
 ***20210328***<br>
-[]()<br>
-[]()<br>
-[]()<br>
-[]()<br>     
+[反直觉！浏览器到底是如何下载资源的](https://mp.weixin.qq.com/s/S0xnKhdIWzyfWurZ-V9oLA)<br>
+[字节跳动面试官：请用JS实现Ajax并发请求控制](https://mp.weixin.qq.com/s/mC6RE2woxLtIziHOj-eIuA)<br>
+[前端每日一题 #60](https://mp.weixin.qq.com/s/QAebGGV1t_4nUO5SVKBEeQ)<br>
 ***20210327***<br>
 [『前端优化』—— Vue中避免滥用this去读取data中数据](https://mp.weixin.qq.com/s/d_uHH4R-lOudYMJgmLJ-LA)<br>
 [美团面试官：你可以手写Vue3的响应式原理吗？](https://mp.weixin.qq.com/s/PYYeisLy0Ht5aSih51bc0A)<br>
