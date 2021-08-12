@@ -12,7 +12,7 @@ git&github操作技巧
 软件工具使用技巧
 ## todo
 平常逛到的一些网站，临时的，不定期更新整理
-## AGCN
+## AGCN相关及产业链
 动画Animation、游戏Game、漫画Comic、轻小说Light Novel
 ## reading notes
 读书笔记
